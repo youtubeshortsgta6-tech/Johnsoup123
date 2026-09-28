@@ -89,7 +89,7 @@ python vice-check/pipeline/run.py vice-check/scripts/<script>.md --shotlist vice
 
 ## Pre-voicing checks (from the handoff)
 
-- Controller Scalping (09): NOT voiced yet. Re-check stock colour at PlayStation Direct/retailers and current eBay prices in the week of Oct 19, update the stock lines, then voice and build.
+- Controller Scalping (09): voiced and built 2026-09-28 as written (owner's call, no re-check). Before posting on Oct 24, glance at stock status at PlayStation Direct/retailers and current eBay prices; if a stock line has changed, re-voice only that chapter and rebuild.
 - Status Check (12): voiced 2026-09-28 after confirming date, price, pre-load and code-in-box were unchanged. Re-confirm before posting on Nov 2; re-voice only the chapter that changes.
 - Launch Night Prep (16): voiced 2026-09-28; no official install size on either store yet, so the storage chapter stands. Re-check the store listing before posting on Nov 16.
 - Nov 7 Countdown (13): HOLD, no script yet.
