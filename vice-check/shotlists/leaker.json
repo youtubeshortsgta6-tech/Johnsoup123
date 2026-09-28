@@ -1,0 +1,320 @@
+{
+  "slug": "leaker",
+  "notes": "Auto-generated default shot list. Replace footage placeholders with real trailer timecodes or official screenshots; cards come from cards.py --from.",
+  "chapters": [
+    {
+      "title": "Cold Open",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/title.png",
+          "dur": 4
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-01.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: Cold Open"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-01.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: Cold Open"
+        }
+      ]
+    },
+    {
+      "title": "The Heist That Shouldn't Have Worked",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-02.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: The Heist That Shouldn't Have Worked"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-02.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: The Heist That Shouldn't Have Worked"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-02.png",
+          "dur": 6,
+          "zoom": false
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "more official b-roll for: The Heist That Shouldn't Have Worked"
+        }
+      ]
+    },
+    {
+      "title": "The Arrest And The Trial That Wasn't Normal",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-03.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: The Arrest And The Trial That Wasn't Normal"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-03.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: The Arrest And The Trial That Wasn't Normal"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-03.png",
+          "dur": 6,
+          "zoom": false
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "more official b-roll for: The Arrest And The Trial That Wasn't Normal"
+        }
+      ]
+    },
+    {
+      "title": "An Indefinite Hospital Order",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-04.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: An Indefinite Hospital Order"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-04.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: An Indefinite Hospital Order"
+        }
+      ]
+    },
+    {
+      "title": "Moved To Prison, Right Before Launch",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-05.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: Moved To Prison, Right Before Launch"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-05.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: Moved To Prison, Right Before Launch"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-05.png",
+          "dur": 6,
+          "zoom": false
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "more official b-roll for: Moved To Prison, Right Before Launch"
+        }
+      ]
+    },
+    {
+      "title": "The New Leaker, CyberLeek",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-06.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: The New Leaker, CyberLeek"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-06.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: The New Leaker, CyberLeek"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-06.png",
+          "dur": 6,
+          "zoom": false
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "more official b-roll for: The New Leaker, CyberLeek"
+        }
+      ]
+    },
+    {
+      "title": "Rockstar's Response, Both Times",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-07.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: Rockstar's Response, Both Times"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-07.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: Rockstar's Response, Both Times"
+        }
+      ]
+    },
+    {
+      "title": "Close",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-08.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: Close"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-08.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: Close"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/endscreen.png",
+          "dur": 12
+        }
+      ]
+    }
+  ]
+}
