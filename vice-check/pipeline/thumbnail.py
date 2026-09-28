@@ -79,5 +79,29 @@ def build(path):
     im.save(path, "PNG")
     return path
 
+def build_text(path, headline, sub=None):
+    """Generic VICE Check thumbnail: dark pink/teal backdrop, huge headline, optional sub line, VI badge."""
+    from cards import Card, font, GREY
+    c = Card(1280, 720)
+    c.d.rectangle([0, 0, 1280, 720], fill=(11, 12, 20))
+    c._backdrop(); c._badge()
+    y = 150
+    for i, line in enumerate(headline.upper().split("|")):
+        f = font(150 if len(line) <= 9 else 118 if len(line) <= 13 else 92)
+        for dx in (-5, 5):
+            for dy in (-5, 5):
+                c.d.text((60+dx, y+dy), line, font=f, fill=(0, 0, 0))
+        c.d.text((60, y), line, font=f, fill=WHITE if i % 2 == 0 else PINK)
+        y += f.size + 18
+    if sub:
+        c.d.text((64, 640), sub, font=font(40, False), fill=TEAL, anchor="ld")
+    Path(path).parent.mkdir(parents=True, exist_ok=True)
+    c.im.save(path, "PNG")
+    return path
+
 if __name__ == "__main__":
+    if "--text" in sys.argv:
+        head = sys.argv[sys.argv.index("--text") + 1]
+        sub = sys.argv[sys.argv.index("--sub") + 1] if "--sub" in sys.argv else None
+        print(build_text(sys.argv[1], head, sub)); sys.exit()
     print(build(sys.argv[1] if len(sys.argv) > 1 else "out/thumb-test.png"))

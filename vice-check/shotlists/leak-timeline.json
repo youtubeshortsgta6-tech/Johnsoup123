@@ -1,0 +1,326 @@
+{
+  "slug": "leak-timeline",
+  "notes": "Auto-generated default shot list. Replace footage placeholders with real trailer timecodes or official screenshots; cards come from cards.py --from.",
+  "chapters": [
+    {
+      "title": "Cold Open",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/title.png",
+          "dur": 4
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-01.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: Cold Open"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-01.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: Cold Open"
+        }
+      ]
+    },
+    {
+      "title": "The Leak That Broke The Internet",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-02.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: The Leak That Broke The Internet"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-02.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: The Leak That Broke The Internet"
+        }
+      ]
+    },
+    {
+      "title": "The Hacker's Fate",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-03.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: The Hacker's Fate"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-03.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: The Hacker's Fate"
+        }
+      ]
+    },
+    {
+      "title": "Trailer 1, The First Real Confirmation",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-04.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: Trailer 1, The First Real Confirmation"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-04.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: Trailer 1, The First Real Confirmation"
+        }
+      ]
+    },
+    {
+      "title": "The Delays",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-05.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: The Delays"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-05.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: The Delays"
+        }
+      ]
+    },
+    {
+      "title": "Trailer 2, Confirmation At Scale",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-06.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: Trailer 2, Confirmation At Scale"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-06.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: Trailer 2, Confirmation At Scale"
+        }
+      ]
+    },
+    {
+      "title": "The Price Reveal",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-07.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: The Price Reveal"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-07.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: The Price Reveal"
+        }
+      ]
+    },
+    {
+      "title": "The Gameplay Showcase",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-08.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: The Gameplay Showcase"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-08.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: The Gameplay Showcase"
+        }
+      ]
+    },
+    {
+      "title": "Where We Are Now",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-09.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: Where We Are Now"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-09.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: Where We Are Now"
+        }
+      ]
+    },
+    {
+      "title": "Close",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/chapter-10.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer b-roll for: Close"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-10.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 0,
+          "out": 10,
+          "dur": 10,
+          "note": "official trailer / screenshot b-roll for: Close"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/endscreen.png",
+          "dur": 12
+        }
+      ]
+    }
+  ]
+}

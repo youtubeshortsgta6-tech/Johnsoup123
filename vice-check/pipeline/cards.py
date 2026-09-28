@@ -169,8 +169,26 @@ REGIONS = [("Mount Kalaga", (760, 200), "no clean match"),
            ("Vice City", (1140, 800), "Miami"),
            ("Leonida Keys", (760, 1000), "the Florida Keys")]
 
+def render_from_chapters(out: Path, chapters_json: str):
+    import json, re
+    data = json.loads(Path(chapters_json).read_text())
+    meta = data["meta"]
+    Card().title("VICE Check", meta.get("title", data["slug"])).save(out/"title.png")
+    for i, ch in enumerate(data["chapters"], 1):
+        n = f"{i:02d}"
+        Card().chapter(None, ch["title"]).save(out/f"chapter-{n}.png")
+        text = " ".join(p for p in ch["paragraphs"] if p != "[PAUSE]")
+        m = re.match(r"(.+?[.!?])(\s|$)", text)
+        q = (m.group(1) if m else text).strip()
+        if len(q) > 150: q = q[:150].rsplit(" ", 1)[0] + "\u2026"
+        Card().quote(q, ch["title"]).save(out/f"quote-{n}.png")
+    Card().title("Next", "More GTA 6, twice a week", "Subscribe. Daily updates: GTA6 Shorts, linked below").save(out/"endscreen.png")
+    print("cards ->", out, f"({len(data['chapters'])} chapters)")
+
 if __name__ == "__main__":
     out = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("work/cards")
+    if "--from" in sys.argv:
+        render_from_chapters(out, sys.argv[sys.argv.index("--from") + 1]); sys.exit()
     Card().title("VICE Check", "Every Real Florida Location Hidden in GTA 6").save(out/"title.png")
     Card().leonida_map(REGIONS).save(out/"map.png")
     Card().leonida_map(REGIONS, scoreboard=True).save(out/"scoreboard.png")

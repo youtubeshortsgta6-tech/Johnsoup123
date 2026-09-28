@@ -4,6 +4,8 @@ slug: leak-timeline
 post: Wed Sep 30, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 status: Corrections applied 2026-09-26
+thumb_text: EVERY|LEAK|2022 to NOW
+thumb_sub: What Rockstar actually confirmed
 
 ## Chapter: Cold Open
 

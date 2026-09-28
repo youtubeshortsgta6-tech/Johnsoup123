@@ -34,7 +34,16 @@ def main():
     for flag in ("--pause", "--gap", "--engine"):
         if flag in a: voice_args += [flag, a[a.index(flag) + 1]]
     step(*voice_args)
-    step(HERE / "cards.py", ROOT / "work" / "cards")
+    meta = {}
+    for line in script.read_text().splitlines():
+        if line.startswith("## "): break
+        if ":" in line: k, v = line.split(":", 1); meta[k.strip()] = v.strip()
+    if slug == "florida-locations":
+        step(HERE / "cards.py", ROOT / "work" / "cards")
+    else:
+        step(HERE / "cards.py", ROOT / "work" / "cards" / slug, "--from", chapters)
+        if not Path(shotlist).exists():
+            step(HERE / "make_shotlist.py", chapters, shotlist)
     timing = ROOT / "vo" / slug / "timing.json"
     out_mp4 = ROOT / "out" / f"{date}-{slug}.mp4"
     asm = [HERE / "assemble.py", shotlist, timing, out_mp4]
@@ -42,7 +51,10 @@ def main():
     if "--music" in a: asm += ["--music", a[a.index("--music") + 1]]
     if "--tail" in a: asm += ["--tail", a[a.index("--tail") + 1]]
     step(*asm)
-    step(HERE / "thumbnail.py", ROOT / "out" / f"{date}-{slug}-thumb.png")
+    thumb = [HERE / "thumbnail.py", ROOT / "out" / f"{date}-{slug}-thumb.png"]
+    if meta.get("thumb_text"): thumb += ["--text", meta["thumb_text"]]
+    if meta.get("thumb_sub"): thumb += ["--sub", meta["thumb_sub"]]
+    step(*thumb)
     up = [HERE / "upload_txt.py", chapters, timing, ROOT / "out" / f"{date}-{slug}-upload.txt", "--video", out_mp4]
     credits = ROOT / "footage" / "credits.txt"
     if credits.exists(): up += ["--credits", credits]

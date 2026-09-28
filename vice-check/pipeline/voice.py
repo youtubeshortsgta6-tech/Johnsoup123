@@ -65,6 +65,10 @@ def main():
     dry = "--dry-run" in args
     engine = args[args.index("--engine") + 1] if "--engine" in args else "piper"
     key = os.environ.get("ELEVENLABS_API_KEY")
+    if engine == "elevenlabs-connector":
+        # chapter mp3s were produced through the ElevenLabs connector and downloaded to vo/<slug>/NN.mp3 already
+        missing = [i for i in range(1, len(data["chapters"]) + 1) if not (VO / data["slug"] / f"{i:02d}.mp3").exists()]
+        if missing: sys.exit(f"elevenlabs-connector: chapter files missing for {missing}; download them first")
     if engine == "elevenlabs" and not key and not dry:
         sys.exit("ELEVENLABS_API_KEY is not set. Add it to the environment (never paste it in chat), "
                  "or run with --dry-run to test the pipeline with silent placeholder audio.")
@@ -119,7 +123,7 @@ def main():
     runtime = media_duration(full)
     save_json(vdir / "timing.json", {"slug": slug, "runtime_sec": runtime, "chapters": timing,
                                      "dry_run": dry, "engine": "silence" if dry else engine,
-                                     "voice": "silence" if dry else (VOICE_ID if engine == "elevenlabs" else Path(PIPER_MODEL).name),
+                                     "voice": "silence" if dry else (VOICE_ID if engine.startswith("elevenlabs") else Path(PIPER_MODEL).name),
                                      "chars": total_chars})
     m, s = divmod(int(round(runtime)), 60)
     print(f"runtime {m}:{s:02d}  ({'DRY RUN, silent' if dry else f'{engine}, {total_chars} chars'})  -> {full}")
