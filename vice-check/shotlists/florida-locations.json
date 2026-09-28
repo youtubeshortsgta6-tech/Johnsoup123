@@ -9,8 +9,14 @@
           "type": "image",
           "file": "footage/screens/keys-whale-statue.jpg",
           "dur": 9,
-          "note": "official whale-statue screenshot (fallback: Keys roadside)",
-          "fallback": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg"
+          "note": "official Leonida_Keys_02: push in to the Wonder Whale statue and sign",
+          "fallback": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+          "zoom_to": [
+            326,
+            730,
+            1210,
+            500
+          ]
         },
         {
           "type": "compare",
