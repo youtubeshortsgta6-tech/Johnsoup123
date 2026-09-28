@@ -50,6 +50,9 @@ def render_segment(seg, dur, idx, tmp, allow_ph):
         Card().placeholder(seg.get("note", seg.get("type")), seg.get("file")).save(card)
         src, kind = card, "image"
     if kind == "footage":
+        src_len = media_duration(src)
+        if float(seg.get("in", 0)) + 0.5 >= src_len:
+            raise SystemExit(f"in-point {seg.get('in')} is past the end of {src} ({src_len:.0f}s)  ({seg.get('note','')})")
         clip = min(dur, float(seg["out"]) - float(seg.get("in", 0))) if seg.get("out") is not None else dur   # never run past the out-point; tpad holds the last frame
         cmd = [ff, "-y", "-ss", str(seg.get("in", 0)), "-t", f"{clip:.3f}", "-i", str(src), "-an",
                "-vf", vf_footage(src) + f",tpad=stop_mode=clone:stop_duration={dur:.3f}", "-t", f"{dur:.3f}",
@@ -59,6 +62,8 @@ def render_segment(seg, dur, idx, tmp, allow_ph):
         cmd = [ff, "-y", "-loop", "1", "-framerate", str(FPS), "-i", str(src), "-t", f"{dur:.3f}",
                "-vf", vf, "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-r", str(FPS), str(out)]
     run(cmd)
+    if out.stat().st_size < 2000:
+        raise SystemExit(f"segment {out.name} rendered empty: {seg}")
     return out
 
 def main():

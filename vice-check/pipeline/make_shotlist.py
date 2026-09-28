@@ -26,17 +26,17 @@ BROLL = [
     ("footage/trailer2.mp4", 24, 30, "Trailer 2: Jason driving"),
     ("footage/trailer1.mp4", 35, 39, "Trailer 1: Keys bridges and penthouse pool"),
     ("footage/trailer2.mp4", 84, 90, "Trailer 2: Lucia and Jason in the kitchen"),
-    ("footage/extended-look-2026-08.mp4", 1720, 1730, "Extended Look: aerial of the beach"),
+    ("footage/extended-look-2026-08.mp4", 1543, 1549, "Extended Look: night skyline, rooftop pool"),
     ("footage/trailer2.mp4", 144, 150, "Trailer 2: Lucia in the convertible"),
-    ("footage/extended-look-2026-08.mp4", 1600, 1610, "Extended Look: street driving"),
+    ("footage/extended-look-2026-08.mp4", 1567, 1573, "Extended Look: sunset skyline, boat"),
     ("footage/trailer2.mp4", 12, 18, "Trailer 2: Brian Heder"),
 ]
 SCREENS = "footage/GTAVI_Screenshots"
 STILLS = {   # keyword -> weapon-free official stills
-    "lucia": [f"{SCREENS}/People/Lucia Caminos/Lucia_Caminos_0{i}.jpg" for i in (1, 2, 3, 4, 6)],
+    "lucia": [f"{SCREENS}/People/Lucia Caminos/Lucia_Caminos_0{i}.jpg" for i in (1, 2, 3, 6, 8)],
     "jason": [f"{SCREENS}/People/Jason Duval/Jason_Duval_0{i}.jpg" for i in (1, 2, 3, 4, 6)],
-    "protagonist": [f"{SCREENS}/People/Jason and Lucia/Jason_and_Lucia_0{i}.jpg" for i in (1, 2, 3, 5, 7)],
-    "bonnie": [f"{SCREENS}/People/Jason and Lucia/Jason_and_Lucia_0{i}.jpg" for i in (2, 4, 6)],
+    "protagonist": [f"{SCREENS}/People/Jason and Lucia/Jason_and_Lucia_{i:02d}.jpg" for i in (3, 5, 7, 10, 13)],
+    "bonnie": [f"{SCREENS}/People/Jason and Lucia/Jason_and_Lucia_{i:02d}.jpg" for i in (8, 13, 3)],
     "vice city": [f"{SCREENS}/Places/Vice City/Vice_City_{i:02d}.jpg" for i in (1, 3, 5, 8, 10, 11)],
     "leonida": [f"{SCREENS}/Places/Leonida Keys/Leonida_Keys_01.jpg", f"{SCREENS}/Places/Grassrivers/Grassrivers_05.jpg",
                 f"{SCREENS}/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_04.jpg", f"{SCREENS}/Places/Port Gellhorn/Port_Gellhorn_06.jpg"],

@@ -314,10 +314,10 @@
         {
           "type": "footage",
           "file": "footage/extended-look-2026-08.mp4",
-          "in": 1720,
-          "out": 1730,
+          "in": 1543,
+          "out": 1549,
           "dur": 8,
-          "note": "Extended Look: aerial of the beach"
+          "note": "Extended Look: night skyline, rooftop pool"
         },
         {
           "type": "image",
@@ -351,10 +351,10 @@
         {
           "type": "footage",
           "file": "footage/extended-look-2026-08.mp4",
-          "in": 1600,
-          "out": 1610,
+          "in": 1567,
+          "out": 1573,
           "dur": 8,
-          "note": "Extended Look: street driving"
+          "note": "Extended Look: sunset skyline, boat"
         },
         {
           "type": "image",
