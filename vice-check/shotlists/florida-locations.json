@@ -1,0 +1,85 @@
+{
+  "slug": "florida-locations",
+  "notes": "Files under footage/ are owner-supplied: official Rockstar trailers (trailer1.mp4, trailer2.mp4), official screenshots in footage/screens/, licensed or CC photos in footage/photos/ (credits in footage/credits.txt). in/out are trailer timecodes in seconds; fill them from your copy of the trailers. Cards are rendered by the pipeline.",
+  "chapters": [
+    {"title": "The lobster clue", "segments": [
+      {"type": "image", "file": "footage/screens/keys-whale-statue.jpg", "dur": 9, "note": "official Leonida Keys screenshot with the giant whale statue, slow push-in"},
+      {"type": "image", "file": "footage/photos/betsy-the-lobster.jpg", "dur": 6, "note": "licensed/CC photo of Betsy the Lobster, Islamorada"}
+    ]},
+    {"title": "Leonida's six regions", "segments": [
+      {"type": "card", "card": "work/cards/title.png", "dur": 5},
+      {"type": "card", "card": "work/cards/map.png", "dur": 14},
+      {"type": "footage", "file": "footage/trailer2.mp4", "in": 0, "out": 8, "dur": 8, "note": "Trailer 2: wide establishing shots of the state, no violence"},
+      {"type": "card", "card": "work/cards/map.png", "dur": 8},
+      {"type": "footage", "file": "footage/trailer1.mp4", "in": 0, "out": 8, "dur": 8, "note": "Trailer 1: aerial montage"}
+    ]},
+    {"title": "Leonida Keys", "segments": [
+      {"type": "footage", "file": "footage/trailer1.mp4", "in": 0, "out": 8, "dur": 8, "note": "Trailer 1 aerial of the long bridges over turquoise water"},
+      {"type": "compare", "left": "footage/screens/keys-bridge.jpg", "right": "footage/photos/overseas-highway.jpg", "left_text": "Leonida Keys bridges", "right_text": "Overseas Highway, Florida Keys", "dur": 7},
+      {"type": "card", "card": "work/cards/quote-keys.png", "dur": 7},
+      {"type": "image", "file": "footage/screens/keys-stilt-houses.jpg", "dur": 8, "note": "official Keys screenshot: stilt houses, boats"},
+      {"type": "image", "file": "footage/screens/jason-bio.jpg", "dur": 10, "note": "official Jason character art page (no AI likeness)"},
+      {"type": "image", "file": "footage/screens/keys-whale-statue.jpg", "dur": 6, "note": "whale statue screenshot again"},
+      {"type": "compare", "left": "footage/screens/keys-whale-statue.jpg", "right": "footage/photos/betsy-the-lobster.jpg", "left_text": "Whale statue, Leonida Keys", "right_text": "Betsy the Lobster, Islamorada", "dur": 10},
+      {"type": "card", "card": "work/cards/facts-betsy.png", "dur": 8},
+      {"type": "card", "card": "work/cards/method.png", "dur": 8}
+    ]},
+    {"title": "Grassrivers", "segments": [
+      {"type": "image", "file": "footage/screens/grassrivers-airboat.jpg", "dur": 8, "note": "official Grassrivers screenshot: airboat"},
+      {"type": "image", "file": "footage/screens/grassrivers-mangroves.jpg", "dur": 7, "note": "official Grassrivers screenshot: mangroves"},
+      {"type": "image", "file": "footage/screens/grassrivers-gator.jpg", "dur": 6, "note": "official Grassrivers screenshot: gator"},
+      {"type": "card", "card": "work/cards/facts-everglades.png", "dur": 9},
+      {"type": "footage", "file": "footage/trailer1.mp4", "in": 0, "out": 6, "dur": 6, "note": "Trailer 1 swamp / airboat shots"},
+      {"type": "footage", "file": "footage/trailer1.mp4", "in": 0, "out": 6, "dur": 8, "note": "Trailer 1 alligator-in-pool shot (no real viral clip)"},
+      {"type": "card", "card": "work/cards/map.png", "dur": 5}
+    ]},
+    {"title": "Ambrosia", "segments": [
+      {"type": "image", "file": "footage/screens/ambrosia-postcard.jpg", "dur": 8, "note": "official Ambrosia postcard"},
+      {"type": "card", "card": "work/cards/map-lake.png", "dur": 8},
+      {"type": "card", "card": "work/cards/facts-okeechobee.png", "dur": 8},
+      {"type": "image", "file": "footage/photos/clewiston-sugar.jpg", "dur": 8, "note": "licensed/CC photo: Clewiston sugar mill or cane fields"},
+      {"type": "image", "file": "footage/screens/ambrosia-refinery.jpg", "dur": 10, "note": "official Allied Crystal refinery screenshot"},
+      {"type": "card", "card": "work/cards/quote-ambrosia.png", "dur": 7},
+      {"type": "image", "file": "footage/screens/ambrosia-election-sign.jpg", "dur": 10, "note": "official image with Allied Crystal election sign, slow zoom"},
+      {"type": "card", "card": "work/cards/facts-ambrosia.png", "dur": 7}
+    ]},
+    {"title": "Port Gellhorn", "segments": [
+      {"type": "image", "file": "footage/screens/gellhorn-starlet-motel.jpg", "dur": 9, "note": "official Port Gellhorn postcard: Starlet Motel"},
+      {"type": "image", "file": "footage/screens/gellhorn-strip-mall.jpg", "dur": 7, "note": "official Port Gellhorn screenshot: strip malls / dirt bikes"},
+      {"type": "card", "card": "work/cards/quote-gellhorn.png", "dur": 8},
+      {"type": "image", "file": "footage/photos/panama-city-beach.jpg", "dur": 8, "note": "licensed/CC photo: Panama City Beach"},
+      {"type": "card", "card": "work/cards/facts-gellhorn.png", "dur": 12},
+      {"type": "card", "card": "work/cards/map.png", "dur": 5},
+      {"type": "footage", "file": "footage/trailer1.mp4", "in": 0, "out": 5, "dur": 7, "note": "Trailer 1 liquor store exterior, Uncle Jack's sign. CUT BEFORE any weapon close-up"}
+    ]},
+    {"title": "Mount Kalaga", "segments": [
+      {"type": "image", "file": "footage/screens/kalaga-forest.jpg", "dur": 8, "note": "official Mount Kalaga screenshot: forest"},
+      {"type": "image", "file": "footage/screens/kalaga-river.jpg", "dur": 7, "note": "official Mount Kalaga screenshot: river / bluffs"},
+      {"type": "card", "card": "work/cards/quote-kalaga.png", "dur": 7},
+      {"type": "card", "card": "work/cards/facts-kalaga.png", "dur": 10},
+      {"type": "image", "file": "footage/photos/torreya-bluffs.jpg", "dur": 8, "note": "licensed/CC photo: Torreya State Park bluffs over the Apalachicola"},
+      {"type": "card", "card": "work/cards/question.png", "dur": 7}
+    ]},
+    {"title": "Vice City", "segments": [
+      {"type": "footage", "file": "footage/trailer2.mp4", "in": 0, "out": 8, "dur": 10, "note": "best Vice City skyline shot from Trailer 2, breathe 2s before VO"},
+      {"type": "image", "file": "footage/screens/vice-ocean-beach.jpg", "dur": 8, "note": "official Ocean Beach screenshot, art deco hotels"},
+      {"type": "image", "file": "footage/screens/vice-little-cuba.jpg", "dur": 6, "note": "official Little Cuba screenshot"},
+      {"type": "image", "file": "footage/screens/vice-port.jpg", "dur": 6, "note": "official port / cruise ships screenshot"},
+      {"type": "compare", "left": "footage/screens/vice-ocean-beach.jpg", "right": "footage/photos/south-beach.jpg", "left_text": "Ocean Beach", "right_text": "Miami Beach / South Beach", "dur": 5},
+      {"type": "compare", "left": "footage/screens/vice-little-cuba.jpg", "right": "footage/photos/little-havana.jpg", "left_text": "Little Cuba", "right_text": "Little Havana", "dur": 5},
+      {"type": "compare", "left": "footage/screens/vice-flea-market.jpg", "right": "footage/photos/opa-locka.jpg", "left_text": "Tisha-Wocka flea market", "right_text": "Opa-locka (fan match)", "dur": 6},
+      {"type": "compare", "left": "footage/screens/vice-port.jpg", "right": "footage/photos/portmiami.jpg", "left_text": "Cruise ship capital of the world", "right_text": "PortMiami", "dur": 5},
+      {"type": "compare", "left": "footage/screens/vice-ocean-view-hotel.jpg", "right": "footage/photos/clevelander.jpg", "left_text": "Ocean View Hotel", "right_text": "The Clevelander, Ocean Drive", "dur": 4},
+      {"type": "compare", "left": "footage/screens/vice-sahara-arena.jpg", "right": "footage/photos/kaseya-center.jpg", "left_text": "Sahara Arena", "right_text": "Kaseya Center", "dur": 4},
+      {"type": "compare", "left": "footage/screens/vice-club-nine1nine.jpg", "right": "footage/photos/e11even.jpg", "left_text": "Club NINE1NINE", "right_text": "E11EVEN Miami", "dur": 4},
+      {"type": "compare", "left": "footage/screens/vice-murals.jpg", "right": "footage/photos/wynwood.jpg", "left_text": "Trailer 2 street murals", "right_text": "Wynwood Walls", "dur": 4},
+      {"type": "compare", "left": "footage/screens/vice-causeway.jpg", "right": "footage/photos/venetian-causeway.jpg", "left_text": "Causeway to the beach", "right_text": "Venetian Causeway", "dur": 4},
+      {"type": "compare", "left": "footage/screens/vice-penthouse-pool.jpg", "right": "footage/photos/tresor-tower.jpg", "left_text": "Penthouse pool, Trailer 1", "right_text": "Tresor Tower, Miami Beach", "dur": 4},
+      {"type": "card", "card": "work/cards/filter.png", "dur": 9}
+    ]},
+    {"title": "The scoreboard", "segments": [
+      {"type": "card", "card": "work/cards/scoreboard.png", "dur": 14},
+      {"type": "card", "card": "work/cards/endscreen.png", "dur": 14}
+    ]}
+  ]
+}
