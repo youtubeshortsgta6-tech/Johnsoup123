@@ -65,3 +65,14 @@ post: 2026-09-28 12:00 PT
 ```
 
 Scripts from the GTA 6 yt clips Project need their `## Chapter:` headings added and their open corrections applied before they go here.
+
+## Getting footage to the pipeline
+
+This build environment cannot reach YouTube, Google Drive links, Dropbox or WeTransfer, but it can download GitHub release assets from this repo. So:
+
+1. Download the official trailers (Trailer 1, Trailer 2, the Aug 2026 Extended Look) from Rockstar's own channels on your machine.
+2. Collect the official screenshots / site postcards you want to use in a folder named `screens/`, and any licensed or Creative Commons photos in `photos/` with a `credits.txt` beside them. Zip those two folders as `stills.zip`.
+3. On GitHub, open this repo, go to Releases, create a release with the tag `footage` (any title), and attach `trailer1.mp4`, `trailer2.mp4`, `extended-look-2026-08.mp4` and `stills.zip` as release assets. Each asset can be up to 2 GB.
+4. Tell the session the release is up. `vice-check/pipeline/fetch_footage.py` pulls the assets into `footage/` and unzips the stills.
+
+Screenshots alone can also be dropped in a Google Drive folder shared with the connected account; the pipeline can pull those (they are small), but not the trailers.

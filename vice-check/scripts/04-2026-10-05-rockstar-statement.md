@@ -4,6 +4,8 @@ slug: rockstar-statement
 post: Mon Oct 5, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 status: Passed fact-check as written
+thumb_text: ROCKSTAR|SAID IT|TWICE
+thumb_sub: Both leak statements, side by side
 
 ## Chapter: Cold Open
 
