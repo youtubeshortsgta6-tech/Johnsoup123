@@ -1,0 +1,5 @@
+The build box cannot open commons.wikimedia.org, so six of the ten credits above are missing the photographer name and licence.
+Before the Florida video goes up, open each file page (https://commons.wikimedia.org/wiki/File:<name>.jpg) and copy the
+"Author" and "Licensing" lines into credits.txt for: Torreya, Clewiston, South Beach, Little Havana, Kaseya Center, Clevelander, PortMiami.
+If any of them is not CC BY / CC BY-SA / public domain, delete that jpg from footage/photos and rebuild; the pipeline falls back
+to a text panel automatically.

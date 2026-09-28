@@ -1,465 +1,465 @@
 {
- "slug": "florida-locations",
- "notes": "Built from the owner's footage release. Two script-specific images are not in the press packs: put them at footage/screens/keys-whale-statue.jpg and footage/screens/ambrosia-election-sign.jpg and they replace the fallbacks automatically. Real-world photos under footage/photos/ fill the right-hand compare panels when present.",
- "chapters": [
-  {
-   "title": "The lobster clue",
-   "segments": [
+  "slug": "florida-locations",
+  "notes": "Built from the owner's footage release. Two script-specific images are not in the press packs: put them at footage/screens/keys-whale-statue.jpg and footage/screens/ambrosia-election-sign.jpg and they replace the fallbacks automatically. Real-world photos under footage/photos/ fill the right-hand compare panels when present.",
+  "chapters": [
     {
-     "type": "image",
-     "file": "footage/screens/keys-whale-statue.jpg",
-     "dur": 9,
-     "note": "official whale-statue screenshot (fallback: Keys roadside)",
-     "fallback": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg"
+      "title": "The lobster clue",
+      "segments": [
+        {
+          "type": "image",
+          "file": "footage/screens/keys-whale-statue.jpg",
+          "dur": 9,
+          "note": "official whale-statue screenshot (fallback: Keys roadside)",
+          "fallback": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg"
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
+          "right": "footage/photos/betsy-the-lobster.jpg",
+          "left_text": "Roadside stop, Leonida Keys",
+          "right_text": "Betsy the Lobster, Islamorada",
+          "dur": 6
+        }
+      ]
     },
     {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_02.jpg",
-     "right": "footage/photos/betsy-the-lobster.jpg",
-     "left_text": "Roadside stop, Leonida Keys",
-     "right_text": "Betsy the Lobster, Islamorada",
-     "dur": 6
+      "title": "Leonida's six regions",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/title.png",
+          "dur": 5
+        },
+        {
+          "type": "card",
+          "card": "work/cards/map.png",
+          "dur": 14
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 150,
+          "out": 158,
+          "dur": 8,
+          "note": "Trailer 2 skyline pull-back"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/map.png",
+          "dur": 8
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 1.0,
+          "out": 4.0,
+          "dur": 8,
+          "note": "Trailer 1 causeway aerial"
+        }
+      ]
+    },
+    {
+      "title": "Leonida Keys",
+      "segments": [
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 8,
+          "out": 16,
+          "dur": 8,
+          "note": "Trailer 1 boat over turquoise water"
+        },
+        {
+          "type": "image",
+          "file": "footage/screens/keys-bridge.jpg",
+          "dur": 6,
+          "note": "Trailer 1 frame: bridges over the Keys"
+        },
+        {
+          "type": "compare",
+          "left": "footage/screens/keys-bridge.jpg",
+          "right": "footage/photos/overseas-highway.jpg",
+          "left_text": "Leonida Keys bridges",
+          "right_text": "Overseas Highway, Florida Keys",
+          "dur": 7
+        },
+        {
+          "type": "card",
+          "card": "work/cards/quote-keys.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 18,
+          "out": 24,
+          "dur": 6,
+          "note": "Trailer 2 stilt house"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_05.jpg",
+          "dur": 4,
+          "note": "boats off the Keys"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/People/Jason Duval/Jason_Duval_03.jpg",
+          "dur": 5,
+          "note": "Jason fishing"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/People/Brian Heder/Brian_Heder_01.jpg",
+          "dur": 5,
+          "note": "Brian Heder"
+        },
+        {
+          "type": "image",
+          "file": "footage/screens/keys-whale-statue.jpg",
+          "dur": 6,
+          "note": "whale statue again",
+          "fallback": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_03.jpg"
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_03.jpg",
+          "right": "footage/photos/betsy-the-lobster.jpg",
+          "left_text": "Roadside stop, Leonida Keys",
+          "right_text": "Betsy the Lobster, Islamorada",
+          "dur": 10
+        },
+        {
+          "type": "card",
+          "card": "work/cards/facts-betsy.png",
+          "dur": 8
+        },
+        {
+          "type": "card",
+          "card": "work/cards/method.png",
+          "dur": 8
+        }
+      ]
+    },
+    {
+      "title": "Grassrivers",
+      "segments": [
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_03.jpg",
+          "dur": 8,
+          "note": "airboat from above"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_05.jpg",
+          "dur": 7,
+          "note": "mangrove flats"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_01.jpg",
+          "dur": 6,
+          "note": "swamp locals"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/facts-everglades.png",
+          "dur": 9
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 18.0,
+          "out": 21.0,
+          "dur": 6,
+          "note": "Trailer 1 swamp"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 41.0,
+          "out": 43.0,
+          "dur": 8,
+          "note": "Trailer 1 gator at the pool"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/map.png",
+          "dur": 5
+        }
+      ]
+    },
+    {
+      "title": "Ambrosia",
+      "segments": [
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_04.jpg",
+          "dur": 8,
+          "note": "Ambrosia fields at sunset"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/map-lake.png",
+          "dur": 8
+        },
+        {
+          "type": "card",
+          "card": "work/cards/facts-okeechobee.png",
+          "dur": 8
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_02.jpg",
+          "right": "footage/photos/clewiston-sugar.jpg",
+          "left_text": "Allied Crystal refinery",
+          "right_text": "U.S. Sugar, Clewiston, Florida",
+          "dur": 8
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_02.jpg",
+          "dur": 10,
+          "note": "refinery at night"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/quote-ambrosia.png",
+          "dur": 7
+        },
+        {
+          "type": "image",
+          "file": "footage/screens/ambrosia-election-sign.jpg",
+          "dur": 10,
+          "note": "official election-sign image (fallback: Ambrosia bikers)",
+          "fallback": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_01.jpg"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/facts-ambrosia.png",
+          "dur": 7
+        }
+      ]
+    },
+    {
+      "title": "Port Gellhorn",
+      "segments": [
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_01.jpg",
+          "dur": 9,
+          "note": "Starlet Motel"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_06.jpg",
+          "dur": 7,
+          "note": "Port Gellhorn at dusk"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/quote-gellhorn.png",
+          "dur": 8
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_06.jpg",
+          "right": "footage/photos/panama-city-beach.jpg",
+          "left_text": "Port Gellhorn",
+          "right_text": "Panama City Beach, Florida",
+          "dur": 8
+        },
+        {
+          "type": "card",
+          "card": "work/cards/facts-gellhorn.png",
+          "dur": 12
+        },
+        {
+          "type": "card",
+          "card": "work/cards/map.png",
+          "dur": 5
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 74.4,
+          "out": 76.0,
+          "dur": 7,
+          "note": "Trailer 1 Uncle Jack's Liquor doorway, holds before the weapon shot"
+        }
+      ]
+    },
+    {
+      "title": "Mount Kalaga",
+      "segments": [
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_03.jpg",
+          "dur": 8,
+          "note": "forest"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_04.jpg",
+          "dur": 7,
+          "note": "river bluffs"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/quote-kalaga.png",
+          "dur": 7
+        },
+        {
+          "type": "card",
+          "card": "work/cards/facts-kalaga.png",
+          "dur": 10
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_04.jpg",
+          "right": "footage/photos/torreya-bluffs.jpg",
+          "left_text": "Mount Kalaga bluffs",
+          "right_text": "Torreya State Park, Florida",
+          "dur": 8
+        },
+        {
+          "type": "card",
+          "card": "work/cards/question.png",
+          "dur": 7
+        }
+      ]
+    },
+    {
+      "title": "Vice City",
+      "segments": [
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 150,
+          "out": 158,
+          "dur": 10,
+          "note": "Trailer 2 skyline, breathe before VO"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+          "dur": 8,
+          "note": "Ocean Beach lifeguard tower"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+          "dur": 6,
+          "note": "street with murals"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+          "dur": 6,
+          "note": "towers on the water"
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+          "right": "footage/photos/south-beach.jpg",
+          "left_text": "Ocean Beach",
+          "right_text": "Miami Beach / South Beach",
+          "dur": 5
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
+          "right": "footage/photos/little-havana.jpg",
+          "left_text": "Little Cuba",
+          "right_text": "Little Havana",
+          "dur": 5
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
+          "right": "footage/photos/opa-locka.jpg",
+          "left_text": "Tisha-Wocka flea market",
+          "right_text": "Opa-locka (fan match)",
+          "dur": 6
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+          "right": "footage/photos/portmiami.jpg",
+          "left_text": "Cruise ship capital of the world",
+          "right_text": "PortMiami",
+          "dur": 5
+        },
+        {
+          "type": "compare",
+          "left": "footage/screens/vice-ocean-view-hotel.jpg",
+          "right": "footage/photos/clevelander.jpg",
+          "left_text": "Ocean View Hotel",
+          "right_text": "The Clevelander, Ocean Drive",
+          "dur": 4
+        },
+        {
+          "type": "compare",
+          "left": "footage/screens/vice-night-aerial.jpg",
+          "right": "footage/photos/kaseya-center.jpg",
+          "left_text": "Sahara Arena",
+          "right_text": "Kaseya Center",
+          "dur": 4
+        },
+        {
+          "type": "compare",
+          "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_07.jpg",
+          "right": "footage/photos/e11even.jpg",
+          "left_text": "Club NINE1NINE",
+          "right_text": "E11EVEN Miami",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 42,
+          "out": 46,
+          "dur": 4,
+          "note": "Trailer 2 street murals"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 1.0,
+          "out": 4.0,
+          "dur": 4,
+          "note": "Trailer 1 causeway"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 36.0,
+          "out": 39.0,
+          "dur": 4,
+          "note": "Trailer 1 penthouse pool"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/filter.png",
+          "dur": 9
+        }
+      ]
+    },
+    {
+      "title": "The scoreboard",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/scoreboard.png",
+          "dur": 14
+        },
+        {
+          "type": "card",
+          "card": "work/cards/endscreen.png",
+          "dur": 14
+        }
+      ]
     }
-   ]
-  },
-  {
-   "title": "Leonida's six regions",
-   "segments": [
-    {
-     "type": "card",
-     "card": "work/cards/title.png",
-     "dur": 5
-    },
-    {
-     "type": "card",
-     "card": "work/cards/map.png",
-     "dur": 14
-    },
-    {
-     "type": "footage",
-     "file": "footage/trailer2.mp4",
-     "in": 150,
-     "out": 158,
-     "dur": 8,
-     "note": "Trailer 2 skyline pull-back"
-    },
-    {
-     "type": "card",
-     "card": "work/cards/map.png",
-     "dur": 8
-    },
-    {
-     "type": "footage",
-     "file": "footage/trailer1.mp4",
-     "in": 1.0,
-     "out": 4.0,
-     "dur": 8,
-     "note": "Trailer 1 causeway aerial"
-    }
-   ]
-  },
-  {
-   "title": "Leonida Keys",
-   "segments": [
-    {
-     "type": "footage",
-     "file": "footage/trailer1.mp4",
-     "in": 8,
-     "out": 16,
-     "dur": 8,
-     "note": "Trailer 1 boat over turquoise water"
-    },
-    {
-     "type": "image",
-     "file": "footage/screens/keys-bridge.jpg",
-     "dur": 6,
-     "note": "Trailer 1 frame: bridges over the Keys"
-    },
-    {
-     "type": "compare",
-     "left": "footage/screens/keys-bridge.jpg",
-     "right": "footage/photos/overseas-highway.jpg",
-     "left_text": "Leonida Keys bridges",
-     "right_text": "Overseas Highway, Florida Keys",
-     "dur": 7
-    },
-    {
-     "type": "card",
-     "card": "work/cards/quote-keys.png",
-     "dur": 7
-    },
-    {
-     "type": "footage",
-     "file": "footage/trailer2.mp4",
-     "in": 18,
-     "out": 24,
-     "dur": 6,
-     "note": "Trailer 2 stilt house"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_05.jpg",
-     "dur": 4,
-     "note": "boats off the Keys"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/People/Jason Duval/Jason_Duval_03.jpg",
-     "dur": 5,
-     "note": "Jason fishing"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/People/Brian Heder/Brian_Heder_01.jpg",
-     "dur": 5,
-     "note": "Brian Heder"
-    },
-    {
-     "type": "image",
-     "file": "footage/screens/keys-whale-statue.jpg",
-     "dur": 6,
-     "note": "whale statue again",
-     "fallback": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_03.jpg"
-    },
-    {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_03.jpg",
-     "right": "footage/photos/betsy-the-lobster.jpg",
-     "left_text": "Roadside stop, Leonida Keys",
-     "right_text": "Betsy the Lobster, Islamorada",
-     "dur": 10
-    },
-    {
-     "type": "card",
-     "card": "work/cards/facts-betsy.png",
-     "dur": 8
-    },
-    {
-     "type": "card",
-     "card": "work/cards/method.png",
-     "dur": 8
-    }
-   ]
-  },
-  {
-   "title": "Grassrivers",
-   "segments": [
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_03.jpg",
-     "dur": 8,
-     "note": "airboat from above"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_05.jpg",
-     "dur": 7,
-     "note": "mangrove flats"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_01.jpg",
-     "dur": 6,
-     "note": "swamp locals"
-    },
-    {
-     "type": "card",
-     "card": "work/cards/facts-everglades.png",
-     "dur": 9
-    },
-    {
-     "type": "footage",
-     "file": "footage/trailer1.mp4",
-     "in": 18.0,
-     "out": 21.0,
-     "dur": 6,
-     "note": "Trailer 1 swamp"
-    },
-    {
-     "type": "footage",
-     "file": "footage/trailer1.mp4",
-     "in": 41.0,
-     "out": 43.0,
-     "dur": 8,
-     "note": "Trailer 1 gator at the pool"
-    },
-    {
-     "type": "card",
-     "card": "work/cards/map.png",
-     "dur": 5
-    }
-   ]
-  },
-  {
-   "title": "Ambrosia",
-   "segments": [
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_04.jpg",
-     "dur": 8,
-     "note": "Ambrosia fields at sunset"
-    },
-    {
-     "type": "card",
-     "card": "work/cards/map-lake.png",
-     "dur": 8
-    },
-    {
-     "type": "card",
-     "card": "work/cards/facts-okeechobee.png",
-     "dur": 8
-    },
-    {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_02.jpg",
-     "right": "footage/photos/clewiston-sugar.jpg",
-     "left_text": "Allied Crystal refinery",
-     "right_text": "Clewiston sugar mill, Florida",
-     "dur": 8
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_02.jpg",
-     "dur": 10,
-     "note": "refinery at night"
-    },
-    {
-     "type": "card",
-     "card": "work/cards/quote-ambrosia.png",
-     "dur": 7
-    },
-    {
-     "type": "image",
-     "file": "footage/screens/ambrosia-election-sign.jpg",
-     "dur": 10,
-     "note": "official election-sign image (fallback: Ambrosia bikers)",
-     "fallback": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_01.jpg"
-    },
-    {
-     "type": "card",
-     "card": "work/cards/facts-ambrosia.png",
-     "dur": 7
-    }
-   ]
-  },
-  {
-   "title": "Port Gellhorn",
-   "segments": [
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_01.jpg",
-     "dur": 9,
-     "note": "Starlet Motel"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_06.jpg",
-     "dur": 7,
-     "note": "Port Gellhorn at dusk"
-    },
-    {
-     "type": "card",
-     "card": "work/cards/quote-gellhorn.png",
-     "dur": 8
-    },
-    {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_06.jpg",
-     "right": "footage/photos/panama-city-beach.jpg",
-     "left_text": "Port Gellhorn",
-     "right_text": "Panama City Beach, Florida",
-     "dur": 8
-    },
-    {
-     "type": "card",
-     "card": "work/cards/facts-gellhorn.png",
-     "dur": 12
-    },
-    {
-     "type": "card",
-     "card": "work/cards/map.png",
-     "dur": 5
-    },
-    {
-     "type": "footage",
-     "file": "footage/trailer1.mp4",
-     "in": 74.4,
-     "out": 76.0,
-     "dur": 7,
-     "note": "Trailer 1 Uncle Jack's Liquor doorway, holds before the weapon shot"
-    }
-   ]
-  },
-  {
-   "title": "Mount Kalaga",
-   "segments": [
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_03.jpg",
-     "dur": 8,
-     "note": "forest"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_04.jpg",
-     "dur": 7,
-     "note": "river bluffs"
-    },
-    {
-     "type": "card",
-     "card": "work/cards/quote-kalaga.png",
-     "dur": 7
-    },
-    {
-     "type": "card",
-     "card": "work/cards/facts-kalaga.png",
-     "dur": 10
-    },
-    {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_04.jpg",
-     "right": "footage/photos/torreya-bluffs.jpg",
-     "left_text": "Mount Kalaga bluffs",
-     "right_text": "Torreya State Park, Florida",
-     "dur": 8
-    },
-    {
-     "type": "card",
-     "card": "work/cards/question.png",
-     "dur": 7
-    }
-   ]
-  },
-  {
-   "title": "Vice City",
-   "segments": [
-    {
-     "type": "footage",
-     "file": "footage/trailer2.mp4",
-     "in": 150,
-     "out": 158,
-     "dur": 10,
-     "note": "Trailer 2 skyline, breathe before VO"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
-     "dur": 8,
-     "note": "Ocean Beach lifeguard tower"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
-     "dur": 6,
-     "note": "street with murals"
-    },
-    {
-     "type": "image",
-     "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
-     "dur": 6,
-     "note": "towers on the water"
-    },
-    {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
-     "right": "footage/photos/south-beach.jpg",
-     "left_text": "Ocean Beach",
-     "right_text": "Miami Beach / South Beach",
-     "dur": 5
-    },
-    {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg",
-     "right": "footage/photos/little-havana.jpg",
-     "left_text": "Little Cuba",
-     "right_text": "Little Havana",
-     "dur": 5
-    },
-    {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
-     "right": "footage/photos/opa-locka.jpg",
-     "left_text": "Tisha-Wocka flea market",
-     "right_text": "Opa-locka (fan match)",
-     "dur": 6
-    },
-    {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
-     "right": "footage/photos/portmiami.jpg",
-     "left_text": "Cruise ship capital of the world",
-     "right_text": "PortMiami",
-     "dur": 5
-    },
-    {
-     "type": "compare",
-     "left": "footage/screens/vice-ocean-view-hotel.jpg",
-     "right": "footage/photos/clevelander.jpg",
-     "left_text": "Ocean View Hotel",
-     "right_text": "The Clevelander, Ocean Drive",
-     "dur": 4
-    },
-    {
-     "type": "compare",
-     "left": "footage/screens/vice-night-aerial.jpg",
-     "right": "footage/photos/kaseya-center.jpg",
-     "left_text": "Sahara Arena",
-     "right_text": "Kaseya Center",
-     "dur": 4
-    },
-    {
-     "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_07.jpg",
-     "right": "footage/photos/e11even.jpg",
-     "left_text": "Club NINE1NINE",
-     "right_text": "E11EVEN Miami",
-     "dur": 4
-    },
-    {
-     "type": "footage",
-     "file": "footage/trailer2.mp4",
-     "in": 42,
-     "out": 46,
-     "dur": 4,
-     "note": "Trailer 2 street murals"
-    },
-    {
-     "type": "footage",
-     "file": "footage/trailer1.mp4",
-     "in": 1.0,
-     "out": 4.0,
-     "dur": 4,
-     "note": "Trailer 1 causeway"
-    },
-    {
-     "type": "footage",
-     "file": "footage/trailer1.mp4",
-     "in": 36.0,
-     "out": 39.0,
-     "dur": 4,
-     "note": "Trailer 1 penthouse pool"
-    },
-    {
-     "type": "card",
-     "card": "work/cards/filter.png",
-     "dur": 9
-    }
-   ]
-  },
-  {
-   "title": "The scoreboard",
-   "segments": [
-    {
-     "type": "card",
-     "card": "work/cards/scoreboard.png",
-     "dur": 14
-    },
-    {
-     "type": "card",
-     "card": "work/cards/endscreen.png",
-     "dur": 14
-    }
-   ]
-  }
- ]
+  ]
 }
