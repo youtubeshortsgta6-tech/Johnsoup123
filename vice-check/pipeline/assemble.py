@@ -17,6 +17,11 @@ from cards import Card
 
 FPS = 30
 VF_FIT = "scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2:color=0x0b0c14,setsar=1,fps=30,format=yuv420p"
+# screen recordings: per-file crop (letterbox bars + the recorder's FPS/GPU overlay in the top band), then fill 1080p
+CROPS = {"trailer1.mp4": "crop=1904:1032:8:32", "trailer2.mp4": "crop=1902:936:8:34", "extended-look-2026-08.mp4": "crop=1902:1040:8:34"}
+FILL = "scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,setsar=1,fps=30,format=yuv420p"
+def vf_footage(src):
+    return CROPS.get(Path(src).name, "crop=iw-48:ih-64:24:32") + "," + FILL
 VF_ZOOM = "scale=2400:-2,zoompan=z='min(zoom+0.0006,1.08)':d={frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1920x1080:fps=30,format=yuv420p"
 
 def render_segment(seg, dur, idx, tmp, allow_ph):
@@ -27,6 +32,8 @@ def render_segment(seg, dur, idx, tmp, allow_ph):
     src = None
     if kind in ("footage", "image"):
         src = ROOT / seg["file"]
+        if not src.exists() and seg.get("fallback") and (ROOT / seg["fallback"]).exists():
+            src = ROOT / seg["fallback"]
         if not src.exists():
             if not allow_ph:
                 raise SystemExit(f"missing {src}  ({seg.get('note','')})\nAdd the file or run with --allow-placeholders for a preview cut.")
@@ -44,7 +51,7 @@ def render_segment(seg, dur, idx, tmp, allow_ph):
         src, kind = card, "image"
     if kind == "footage":
         cmd = [ff, "-y", "-ss", str(seg.get("in", 0)), "-t", f"{dur:.3f}", "-i", str(src), "-an",
-               "-vf", VF_FIT + f",tpad=stop_mode=clone:stop_duration={dur:.3f}", "-t", f"{dur:.3f}",
+               "-vf", vf_footage(src) + f",tpad=stop_mode=clone:stop_duration={dur:.3f}", "-t", f"{dur:.3f}",
                "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-r", str(FPS), str(out)]
     else:
         vf = VF_ZOOM.format(frames=frames) if seg.get("zoom", True) and "missing" not in src.name else VF_FIT
@@ -61,6 +68,7 @@ def main():
     music = Path(a[a.index("--music") + 1]) if "--music" in a else None
     tail = float(a[a.index("--tail") + 1]) if "--tail" in a else 8.0
     tmp = WORK / shot.get("slug", dest.stem) / "segments"; tmp.mkdir(parents=True, exist_ok=True)
+    for old in list(tmp.glob("missing*.png")) + list(tmp.glob("compare*.png")): old.unlink()   # counts must reflect this run
     if len(shot["chapters"]) != len(timing["chapters"]):
         raise SystemExit(f"shotlist has {len(shot['chapters'])} chapters, VO timing has {len(timing['chapters'])}")
     segs, idx = [], 0

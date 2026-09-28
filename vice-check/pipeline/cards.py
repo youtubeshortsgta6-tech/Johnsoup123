@@ -113,7 +113,11 @@ class Card:
                 pic.thumbnail((bw, bh))
                 self.im.paste(pic, (x1+12+(bw-pic.width)//2, top+12+(bh-pic.height)//2))
             else:
-                self.d.text(((x1+x2)//2, (top+bottom)//2-60), "IMAGE", font=font(40), fill=(60, 64, 90), anchor="mm")
+                self.d.rounded_rectangle([x1+12, top+12, x2-12, bottom-150], radius=18, fill=(14, 16, 28))
+                yy = top + 200
+                for line in self._wrap(text, font(64), x2-x1-120):
+                    self.d.text(((x1+x2)//2, yy), line, font=font(64), fill=color, anchor="ma"); yy += 80
+                self.d.text(((x1+x2)//2, bottom-190), "real-world reference", font=font(28, False), fill=GREY, anchor="ma")
             self.d.text((x1+30, top+24), label.upper(), font=font(30), fill=color)
             self._block(text, font(52), x1+30, bottom-130, x2-x1-60)
         return self

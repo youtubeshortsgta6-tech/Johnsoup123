@@ -1,6 +1,6 @@
 {
   "slug": "leak-timeline",
-  "notes": "Auto-generated default shot list. Replace footage placeholders with real trailer timecodes or official screenshots; cards come from cards.py --from.",
+  "notes": "Generated from the owner's footage: official trailer/Extended Look recordings and Rockstar press-pack stills, weapon-free segments only.",
   "chapters": [
     {
       "title": "Cold Open",
@@ -13,28 +13,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-01.png",
-          "dur": 5
+          "dur": 4
         },
         {
           "type": "footage",
           "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: Cold Open"
+          "in": 150,
+          "out": 158,
+          "dur": 8,
+          "note": "Trailer 2: Vice City skyline pull-back at sunset"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+          "dur": 7,
+          "note": "official still"
         },
         {
           "type": "card",
           "card": "work/cards/leak-timeline/quote-01.png",
-          "dur": 8
+          "dur": 7
         },
         {
           "type": "footage",
           "file": "footage/trailer1.mp4",
           "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: Cold Open"
+          "out": 8,
+          "dur": 8,
+          "note": "Trailer 1: causeway aerial at sunset"
         }
       ]
     },
@@ -44,28 +50,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-02.png",
-          "dur": 5
+          "dur": 4
         },
         {
           "type": "footage",
           "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: The Leak That Broke The Internet"
+          "in": 30,
+          "out": 36,
+          "dur": 8,
+          "note": "Trailer 2: highway into the Vice City skyline"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+          "dur": 7,
+          "note": "official still"
         },
         {
           "type": "card",
           "card": "work/cards/leak-timeline/quote-02.png",
-          "dur": 8
+          "dur": 7
         },
         {
           "type": "footage",
           "file": "footage/trailer1.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: The Leak That Broke The Internet"
+          "in": 8,
+          "out": 16,
+          "dur": 8,
+          "note": "Trailer 1: boat over turquoise water"
         }
       ]
     },
@@ -75,28 +87,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-03.png",
-          "dur": 5
+          "dur": 4
         },
         {
           "type": "footage",
           "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: The Hacker's Fate"
+          "in": 36,
+          "out": 42,
+          "dur": 8,
+          "note": "Trailer 2: beach gym on Ocean Beach"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
+          "dur": 7,
+          "note": "official still"
         },
         {
           "type": "card",
           "card": "work/cards/leak-timeline/quote-03.png",
-          "dur": 8
+          "dur": 7
         },
         {
           "type": "footage",
           "file": "footage/trailer1.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: The Hacker's Fate"
+          "in": 16,
+          "out": 24,
+          "dur": 8,
+          "note": "Trailer 1: swamp at sunrise"
         }
       ]
     },
@@ -106,28 +124,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-04.png",
-          "dur": 5
+          "dur": 4
         },
         {
           "type": "footage",
           "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: Trailer 1, The First Real Confirmation"
+          "in": 42,
+          "out": 48,
+          "dur": 8,
+          "note": "Trailer 2: street murals"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/People/Lucia Caminos/Lucia_Caminos_01.jpg",
+          "dur": 7,
+          "note": "official still"
         },
         {
           "type": "card",
           "card": "work/cards/leak-timeline/quote-04.png",
-          "dur": 8
+          "dur": 7
         },
         {
           "type": "footage",
           "file": "footage/trailer1.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: Trailer 1, The First Real Confirmation"
+          "in": 28,
+          "out": 36,
+          "dur": 8,
+          "note": "Trailer 1: night city aerial"
         }
       ]
     },
@@ -137,28 +161,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-05.png",
-          "dur": 5
+          "dur": 4
         },
         {
           "type": "footage",
           "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: The Delays"
+          "in": 6,
+          "out": 12,
+          "dur": 8,
+          "note": "Trailer 2: Jason and the truck"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+          "dur": 7,
+          "note": "official still"
         },
         {
           "type": "card",
           "card": "work/cards/leak-timeline/quote-05.png",
-          "dur": 8
+          "dur": 7
         },
         {
           "type": "footage",
-          "file": "footage/trailer1.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: The Delays"
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1200,
+          "out": 1210,
+          "dur": 8,
+          "note": "Extended Look: daytime skyline"
         }
       ]
     },
@@ -168,28 +198,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-06.png",
-          "dur": 5
+          "dur": 4
         },
         {
           "type": "footage",
           "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: Trailer 2, Confirmation At Scale"
+          "in": 18,
+          "out": 24,
+          "dur": 8,
+          "note": "Trailer 2: stilt house in the Keys"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_01.jpg",
+          "dur": 7,
+          "note": "official still"
         },
         {
           "type": "card",
           "card": "work/cards/leak-timeline/quote-06.png",
-          "dur": 8
+          "dur": 7
         },
         {
           "type": "footage",
-          "file": "footage/trailer1.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: Trailer 2, Confirmation At Scale"
+          "file": "footage/trailer2.mp4",
+          "in": 78,
+          "out": 84,
+          "dur": 8,
+          "note": "Trailer 2: dock at sunset"
         }
       ]
     },
@@ -199,28 +235,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-07.png",
-          "dur": 5
+          "dur": 4
         },
         {
           "type": "footage",
-          "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: The Price Reveal"
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1240,
+          "out": 1250,
+          "dur": 8,
+          "note": "Extended Look: driving toward the towers"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg",
+          "dur": 7,
+          "note": "official still"
         },
         {
           "type": "card",
           "card": "work/cards/leak-timeline/quote-07.png",
-          "dur": 8
+          "dur": 7
         },
         {
           "type": "footage",
-          "file": "footage/trailer1.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: The Price Reveal"
+          "file": "footage/trailer2.mp4",
+          "in": 24,
+          "out": 30,
+          "dur": 8,
+          "note": "Trailer 2: Jason driving"
         }
       ]
     },
@@ -230,28 +272,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-08.png",
-          "dur": 5
-        },
-        {
-          "type": "footage",
-          "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: The Gameplay Showcase"
-        },
-        {
-          "type": "card",
-          "card": "work/cards/leak-timeline/quote-08.png",
-          "dur": 8
+          "dur": 4
         },
         {
           "type": "footage",
           "file": "footage/trailer1.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: The Gameplay Showcase"
+          "in": 20,
+          "out": 24,
+          "dur": 8,
+          "note": "Trailer 1: beach crowd"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leak-timeline/quote-08.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 84,
+          "out": 90,
+          "dur": 8,
+          "note": "Trailer 2: Lucia and Jason in the kitchen"
         }
       ]
     },
@@ -261,28 +309,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-09.png",
-          "dur": 5
+          "dur": 4
         },
         {
           "type": "footage",
-          "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: Where We Are Now"
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1720,
+          "out": 1730,
+          "dur": 8,
+          "note": "Extended Look: aerial of the beach"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_05.jpg",
+          "dur": 7,
+          "note": "official still"
         },
         {
           "type": "card",
           "card": "work/cards/leak-timeline/quote-09.png",
-          "dur": 8
+          "dur": 7
         },
         {
           "type": "footage",
-          "file": "footage/trailer1.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: Where We Are Now"
+          "file": "footage/trailer2.mp4",
+          "in": 144,
+          "out": 150,
+          "dur": 8,
+          "note": "Trailer 2: Lucia in the convertible"
         }
       ]
     },
@@ -292,28 +346,34 @@
         {
           "type": "card",
           "card": "work/cards/leak-timeline/chapter-10.png",
-          "dur": 5
+          "dur": 4
         },
         {
           "type": "footage",
-          "file": "footage/trailer2.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer b-roll for: Close"
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1600,
+          "out": 1610,
+          "dur": 8,
+          "note": "Extended Look: street driving"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_03.jpg",
+          "dur": 7,
+          "note": "official still"
         },
         {
           "type": "card",
           "card": "work/cards/leak-timeline/quote-10.png",
-          "dur": 8
+          "dur": 7
         },
         {
           "type": "footage",
-          "file": "footage/trailer1.mp4",
-          "in": 0,
-          "out": 10,
-          "dur": 10,
-          "note": "official trailer / screenshot b-roll for: Close"
+          "file": "footage/trailer2.mp4",
+          "in": 12,
+          "out": 18,
+          "dur": 8,
+          "note": "Trailer 2: Brian Heder"
         },
         {
           "type": "card",
