@@ -5,6 +5,7 @@ post: Mon Nov 16, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 thumb_text: DO THIS|BEFORE|LAUNCH
 thumb_sub: Storage, pre-load, settings
+recheck: Checked 2026-09-28: no official install size on either store yet; 150-200 GB estimates still the reporting, storage chapter unchanged. Re-check the store listing before posting on Nov 16.
 status: Corrections applied 2026-09-26
 notes: Before voicing: check the real file size on the PS5 and Xbox store listings and update the storage chapter if it's changed.
 

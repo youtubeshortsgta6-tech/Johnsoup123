@@ -1,0 +1,340 @@
+{
+  "slug": "pc-at-launch",
+  "notes": "Generated from the owner's footage: official trailer/Extended Look recordings and Rockstar press-pack stills, weapon-free segments only.",
+  "chapters": [
+    {
+      "title": "Cold Open",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/title.png",
+          "dur": 4
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/chapter-01.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 150,
+          "out": 158,
+          "dur": 8,
+          "note": "Trailer 2: Vice City skyline pull-back at sunset"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/quote-01.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 1,
+          "out": 4,
+          "dur": 8,
+          "note": "Trailer 1: causeway aerial at sunset"
+        }
+      ]
+    },
+    {
+      "title": "What Rockstar Has Actually Confirmed",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/chapter-02.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 30,
+          "out": 36,
+          "dur": 8,
+          "note": "Trailer 2: highway into the Vice City skyline"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/quote-02.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 10,
+          "out": 13,
+          "dur": 8,
+          "note": "Trailer 1: turquoise water and beach aerial"
+        }
+      ]
+    },
+    {
+      "title": "The Pattern, GTA5's PC Wait",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/chapter-03.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 36,
+          "out": 42,
+          "dur": 8,
+          "note": "Trailer 2: beach gym on Ocean Beach"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/quote-03.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 18,
+          "out": 21,
+          "dur": 8,
+          "note": "Trailer 1: swamp at sunrise"
+        }
+      ]
+    },
+    {
+      "title": "The Pattern Confirms Itself, RDR2",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/chapter-04.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 42,
+          "out": 48,
+          "dur": 8,
+          "note": "Trailer 2: street murals"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/quote-04.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 30,
+          "out": 33,
+          "dur": 8,
+          "note": "Trailer 1: night aerial and neon street"
+        }
+      ]
+    },
+    {
+      "title": "So What Does That Mean For GTA6",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/chapter-05.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 6,
+          "out": 12,
+          "dur": 8,
+          "note": "Trailer 2: Jason and the truck"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_01.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/quote-05.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1200,
+          "out": 1210,
+          "dur": 8,
+          "note": "Extended Look: daytime skyline"
+        }
+      ]
+    },
+    {
+      "title": "What's Rumor vs What's Fact",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/chapter-06.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 18,
+          "out": 24,
+          "dur": 8,
+          "note": "Trailer 2: stilt house in the Keys"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/quote-06.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 78,
+          "out": 84,
+          "dur": 8,
+          "note": "Trailer 2: dock at sunset"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_03.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1240,
+          "out": 1250,
+          "dur": 8,
+          "note": "Extended Look: driving toward the towers"
+        }
+      ]
+    },
+    {
+      "title": "Why Rockstar Actually Does This",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/chapter-07.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 24,
+          "out": 30,
+          "dur": 8,
+          "note": "Trailer 2: Jason driving"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/quote-07.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 35,
+          "out": 39,
+          "dur": 8,
+          "note": "Trailer 1: Keys bridges and penthouse pool"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_01.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 84,
+          "out": 90,
+          "dur": 8,
+          "note": "Trailer 2: Lucia and Jason in the kitchen"
+        }
+      ]
+    },
+    {
+      "title": "Close",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/chapter-08.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1543,
+          "out": 1549,
+          "dur": 8,
+          "note": "Extended Look: night skyline, rooftop pool"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_06.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/quote-08.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 144,
+          "out": 150,
+          "dur": 8,
+          "note": "Trailer 2: Lucia in the convertible"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/pc-at-launch/endscreen.png",
+          "dur": 12
+        }
+      ]
+    }
+  ]
+}

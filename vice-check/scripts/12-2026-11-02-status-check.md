@@ -5,6 +5,7 @@ post: Mon Nov 2, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 thumb_text: 17 DAYS|STATUS|CHECK
 thumb_sub: Date, price, platforms, pre-load
+recheck: Checked 2026-09-28: date Nov 19, $79.99/$99.99, pre-load Nov 12, code-in-box all still current. Re-confirm before posting on Nov 2.
 status: Corrections applied 2026-09-26
 notes: Before voicing: confirm nothing major changed (date, price, pre-load) since late September.
 

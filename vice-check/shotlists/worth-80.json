@@ -1,0 +1,419 @@
+{
+  "slug": "worth-80",
+  "notes": "Generated from the owner's footage: official trailer/Extended Look recordings and Rockstar press-pack stills, weapon-free segments only.",
+  "chapters": [
+    {
+      "title": "Cold Open",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/title.png",
+          "dur": 4
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/chapter-01.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 150,
+          "out": 158,
+          "dur": 8,
+          "note": "Trailer 2: Vice City skyline pull-back at sunset"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_01.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/quote-01.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 1,
+          "out": 4,
+          "dur": 8,
+          "note": "Trailer 1: causeway aerial at sunset"
+        }
+      ]
+    },
+    {
+      "title": "Steelmanning The Not Worth It Case",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/chapter-02.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 30,
+          "out": 36,
+          "dur": 8,
+          "note": "Trailer 2: highway into the Vice City skyline"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_02.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/quote-02.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 10,
+          "out": 13,
+          "dur": 8,
+          "note": "Trailer 1: turquoise water and beach aerial"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_GROTTI_CHEETAH_02.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 36,
+          "out": 42,
+          "dur": 8,
+          "note": "Trailer 2: beach gym on Ocean Beach"
+        }
+      ]
+    },
+    {
+      "title": "What Seventy Becoming Eighty Actually Means",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/chapter-03.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 18,
+          "out": 21,
+          "dur": 8,
+          "note": "Trailer 1: swamp at sunrise"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Vintage_Vice_City_Pack/VINTAGE_VICE_CITY_PACK_02.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/quote-03.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 42,
+          "out": 48,
+          "dur": 8,
+          "note": "Trailer 2: street murals"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 30,
+          "out": 33,
+          "dur": 8,
+          "note": "Trailer 1: night aerial and neon street"
+        }
+      ]
+    },
+    {
+      "title": "The Budget Nobody's Talking About",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/chapter-04.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 6,
+          "out": 12,
+          "dur": 8,
+          "note": "Trailer 2: Jason and the truck"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/quote-04.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1200,
+          "out": 1210,
+          "dur": 8,
+          "note": "Extended Look: daytime skyline"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 18,
+          "out": 24,
+          "dur": 8,
+          "note": "Trailer 2: stilt house in the Keys"
+        }
+      ]
+    },
+    {
+      "title": "The Rockstar Track Record",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/chapter-05.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 78,
+          "out": 84,
+          "dur": 8,
+          "note": "Trailer 2: dock at sunset"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/quote-05.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1240,
+          "out": 1250,
+          "dur": 8,
+          "note": "Extended Look: driving toward the towers"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_01.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 24,
+          "out": 30,
+          "dur": 8,
+          "note": "Trailer 2: Jason driving"
+        }
+      ]
+    },
+    {
+      "title": "What Else Eighty Dollars Buys",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/chapter-06.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 35,
+          "out": 39,
+          "dur": 8,
+          "note": "Trailer 1: Keys bridges and penthouse pool"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/quote-06.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 84,
+          "out": 90,
+          "dur": 8,
+          "note": "Trailer 2: Lucia and Jason in the kitchen"
+        }
+      ]
+    },
+    {
+      "title": "Why The Backlash Is Loud But Thin",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/chapter-07.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1543,
+          "out": 1549,
+          "dur": 8,
+          "note": "Extended Look: night skyline, rooftop pool"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_03.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/quote-07.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 144,
+          "out": 150,
+          "dur": 8,
+          "note": "Trailer 2: Lucia in the convertible"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1567,
+          "out": 1573,
+          "dur": 8,
+          "note": "Extended Look: sunset skyline, boat"
+        }
+      ]
+    },
+    {
+      "title": "The Actual Verdict",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/chapter-08.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 12,
+          "out": 18,
+          "dur": 8,
+          "note": "Trailer 2: Brian Heder"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_01.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/quote-08.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 150,
+          "out": 158,
+          "dur": 8,
+          "note": "Trailer 2: Vice City skyline pull-back at sunset"
+        }
+      ]
+    },
+    {
+      "title": "Close",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/chapter-09.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 1,
+          "out": 4,
+          "dur": 8,
+          "note": "Trailer 1: causeway aerial at sunset"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_06.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/quote-09.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 30,
+          "out": 36,
+          "dur": 8,
+          "note": "Trailer 2: highway into the Vice City skyline"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/worth-80/endscreen.png",
+          "dur": 12
+        }
+      ]
+    }
+  ]
+}
