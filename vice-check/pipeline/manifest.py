@@ -15,6 +15,6 @@ md = ["# VICE Check deliverables", "", "Files live in `out/` on the build box (n
       "| # | name | title | post | runtime | mp4 | thumb |", "|---|---|---|---|---|---|---|"]
 for i, (b, ti, po, rt, m, th) in enumerate(rows, 1):
     md.append(f"| {i} | {b} | {ti} | {po} | {rt} | {'yes' if m else 'MISSING'} | {'yes' if th else 'MISSING'} |")
-md += ["", "Not built: 09 controller-scalping (voice after the week-of-Oct-19 re-check), 13 countdown (HOLD, no script).", ""]
+md += ["", "Not built: 13 countdown (HOLD, no script). Florida is the Liam re-voice; the Piper cut is superseded.", ""]
 Path(ROOT / "vice-check" / "DELIVERABLES.md").write_text("\n".join(md))
 print("\n".join(md))

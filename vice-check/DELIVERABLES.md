@@ -20,4 +20,4 @@ Files live in `out/` on the build box (not committed). Each row: `out/<name>.mp4
 | 14 | 2026-11-14-will-flop-debunked | "GTA 6 Will Flop" — Debunked With The Actual Numbers | Sat Nov 14, 6:00 PM PT | 4:43 video, 4:35 narration  (under 8:00, no mid-roll) | yes | yes |
 | 15 | 2026-11-16-launch-night-prep | Do This Before GTA6 Launch Night | Mon Nov 16, 6:00 PM PT | 4:31 video, 4:23 narration  (under 8:00, no mid-roll) | yes | yes |
 
-Not built: 09 controller-scalping (voice after the week-of-Oct-19 re-check), 13 countdown (HOLD, no script).
+Not built: 13 countdown (HOLD, no script). Florida is the Liam re-voice; the Piper cut is superseded.
