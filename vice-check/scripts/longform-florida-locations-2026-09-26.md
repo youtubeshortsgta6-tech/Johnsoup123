@@ -1,6 +1,9 @@
 # VICE Check Script: Every Real Florida Location Hidden in GTA 6
 
 slug: florida-locations
+thumb_text: THIS IS|REAL?
+thumb_image: footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_01.jpg
+thumb_split: footage/photos/overseas-highway.jpg
 post: 2026-09-28 12:00 PT (post as soon as rendered; slot already passed)
 voice: Piper en-us-ryan-high (local); Liam TX3LPaxmHKxFdv7VOQHJ if ElevenLabs is used
 status: Ready to record (passed fact-check as written, Sep 26; no open corrections)

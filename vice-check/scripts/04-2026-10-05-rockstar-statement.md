@@ -1,6 +1,8 @@
 # Rockstar's Official Statement On The GTA6 Leaks, Explained
 
 slug: rockstar-statement
+thumb_image: footage/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg
+thumb_focus: 0.6,0.5
 post: Mon Oct 5, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 status: Passed fact-check as written

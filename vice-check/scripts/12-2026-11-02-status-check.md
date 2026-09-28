@@ -1,6 +1,8 @@
 # 17 Days Until GTA6: The Full Status Check
 
 slug: status-check
+thumb_image: footage/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg
+thumb_focus: 0.6,0.5
 post: Mon Nov 2, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 thumb_text: 17 DAYS|STATUS|CHECK

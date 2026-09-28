@@ -54,6 +54,11 @@ def main():
     thumb = [HERE / "thumbnail.py", ROOT / "out" / f"{date}-{slug}-thumb.png"]
     if meta.get("thumb_text"): thumb += ["--text", meta["thumb_text"]]
     if meta.get("thumb_sub"): thumb += ["--sub", meta["thumb_sub"]]
+    if meta.get("thumb_image"): thumb += ["--image", ROOT / meta["thumb_image"]]
+    if meta.get("thumb_focus"): thumb += ["--focus", meta["thumb_focus"]]
+    if meta.get("thumb_split"): thumb += ["--split", ROOT / meta["thumb_split"]]
+    if meta.get("thumb_split_focus"): thumb += ["--split-focus", meta["thumb_split_focus"]]
+    if str(meta.get("thumb_mirror", "")).lower() in ("1", "true", "yes"): thumb.append("--mirror")
     step(*thumb)
     up = [HERE / "upload_txt.py", chapters, timing, ROOT / "out" / f"{date}-{slug}-upload.txt", "--video", out_mp4]
     credits = ROOT / "footage" / "credits.txt"

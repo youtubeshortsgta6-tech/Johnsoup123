@@ -1,5 +1,6 @@
-"""1280x720 thumbnail: split frame, two original roadside-statue silhouettes (lobster / whale), red arrow, REAL?, VI badge.
-Usage: python thumbnail.py out/<date>-<slug>-thumb.png
+"""1280x720 thumbnail.
+  --image <official screenshot> --text "LINE|LINE|LINE" [--sub ...] [--focus fx,fy] [--split <real photo> --split-focus fx,fy]
+  --text only: legacy dark text card.   no flags: legacy primitive lobster/whale card.
 """
 import math, sys
 from pathlib import Path
@@ -100,7 +101,89 @@ def build_text(path, headline, sub=None):
     c.im.save(path, "PNG")
     return path
 
+def _cover(img, w, h, focus=None):
+    """Scale-and-crop an image to w x h. focus=(fx, fy) in 0..1 picks which part survives the crop."""
+    iw, ih = img.size
+    scale = max(w / iw, h / ih)
+    img = img.resize((int(iw * scale + 0.5), int(ih * scale + 0.5)), Image.LANCZOS)
+    fx, fy = focus or (0.5, 0.5)
+    x0 = int((img.width - w) * fx); y0 = int((img.height - h) * fy)
+    return img.crop((x0, y0, x0 + w, y0 + h))
+
+def _pop(img):
+    from PIL import ImageEnhance
+    img = ImageEnhance.Color(img).enhance(1.25)
+    return ImageEnhance.Contrast(img).enhance(1.12)
+
+def _outlined(d, xy, text, f, fill, outline=(0, 0, 0), w=7, anchor="la"):
+    for dx in range(-w, w + 1, 2):
+        for dy in range(-w, w + 1, 2):
+            d.text((xy[0] + dx, xy[1] + dy), text, font=f, fill=outline, anchor=anchor)
+    d.text(xy, text, font=f, fill=fill, anchor=anchor)
+
+def _badge_big(d, W):
+    d.rounded_rectangle([W - 200, 36, W - 40, 136], radius=18, outline=PINK, width=6, fill=BG2)
+    d.text((W - 120, 86), "VI", font=font(66), fill=WHITE, anchor="mm")
+    _outlined(d, (W - 40, 150), "VICE CHECK", font(24), TEAL, w=3, anchor="ra")
+
+def build_image(path, headline, sub, image, focus=None, split=None, mirror=False):
+    """Full-bleed official screenshot, dark left gradient, huge outlined hook text, VI badge.
+    split=(right_image, right_focus) makes a GTA-vs-real split frame with the headline centred at the bottom."""
+    W, H = 1280, 720
+    if split:
+        left = _pop(_cover(Image.open(image).convert("RGB"), W // 2, H, focus))
+        right = _pop(_cover(Image.open(split[0]).convert("RGB"), W // 2, H, split[1]))
+        im = Image.new("RGB", (W, H)); im.paste(left, (0, 0)); im.paste(right, (W // 2, 0))
+        d = ImageDraw.Draw(im)
+        d.rectangle([W // 2 - 6, 0, W // 2 + 6, H], fill=WHITE)
+        # bottom gradient for the text
+        grad = Image.new("L", (1, H)); gp = grad.load()
+        for y in range(H): gp[0, y] = int(max(0, (y - 380) / (H - 380)) ** 1.2 * 235)
+        im.paste(Image.new("RGB", (W, H), (0, 0, 0)), (0, 0), grad.resize((W, H)))
+        d = ImageDraw.Draw(im)
+        _outlined(d, (30, 30), "GTA 6", font(48), WHITE, w=4)
+        _outlined(d, (W // 2 + 30, 30), "REAL", font(48), PINK, w=4)
+        lines = headline.upper().split("|")
+        y = H - 40
+        for i, line in enumerate(reversed(lines)):
+            f = font(150 if len(line) <= 7 else 120 if len(line) <= 11 else 96)
+            _outlined(d, (W // 2, y), line, f, PINK if i == 0 else WHITE, w=8, anchor="md")
+            y -= f.size + 6
+        _badge_big(d, W)
+    else:
+        im = _pop(_cover(Image.open(image).convert("RGB"), W, H, focus))
+        if mirror: im = im.transpose(Image.FLIP_LEFT_RIGHT)   # puts a left-side subject on the right, clear of the text
+        grad = Image.new("L", (W, 1)); gp = grad.load()
+        for x in range(W):
+            t = x / W
+            gp[x, 0] = int(max(0.0, 1 - (t / 0.72)) ** 0.9 * 215) if t < 0.72 else 0
+        im.paste(Image.new("RGB", (W, H), (4, 3, 10)), (0, 0), grad.resize((W, H)))
+        d = ImageDraw.Draw(im)
+        lines = headline.upper().split("|")
+        sizes = [150 if len(l) <= 7 else 128 if len(l) <= 10 else 104 if len(l) <= 13 else 84 for l in lines]
+        total = sum(sizes) + 8 * (len(lines) - 1)
+        y = (H - total) // 2 - 10
+        for i, (line, sz) in enumerate(zip(lines, sizes)):
+            _outlined(d, (56, y), line, font(sz), WHITE if i % 2 == 0 else PINK, w=8)
+            y += sz + 8
+        if sub:
+            _outlined(d, (60, H - 28), sub, font(40, False), TEAL, w=4, anchor="ld")
+        d.rectangle([0, H - 10, W, H], fill=PINK)
+        _badge_big(d, W)
+    Path(path).parent.mkdir(parents=True, exist_ok=True)
+    im.save(path, "PNG")
+    return path
+
 if __name__ == "__main__":
+    if "--image" in sys.argv:
+        a = sys.argv
+        head = a[a.index("--text") + 1]
+        sub = a[a.index("--sub") + 1] if "--sub" in a else None
+        focus = tuple(float(v) for v in a[a.index("--focus") + 1].split(",")) if "--focus" in a else None
+        split = None
+        if "--split" in a:
+            split = (a[a.index("--split") + 1], tuple(float(v) for v in a[a.index("--split-focus") + 1].split(",")) if "--split-focus" in a else None)
+        print(build_image(a[1], head, sub, a[a.index("--image") + 1], focus, split, "--mirror" in a)); sys.exit()
     if "--text" in sys.argv:
         head = sys.argv[sys.argv.index("--text") + 1]
         sub = sys.argv[sys.argv.index("--sub") + 1] if "--sub" in sys.argv else None

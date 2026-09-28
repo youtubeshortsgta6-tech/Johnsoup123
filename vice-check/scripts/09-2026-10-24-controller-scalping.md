@@ -1,6 +1,8 @@
 # GTA6's Controller Is Already Being Scalped At 2x Price
 
 slug: controller-scalping
+thumb_image: footage/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_10.jpg
+thumb_focus: 0.6,0.5
 post: Sat Oct 24, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 thumb_text: SCALPED|AT 2X|PRICE

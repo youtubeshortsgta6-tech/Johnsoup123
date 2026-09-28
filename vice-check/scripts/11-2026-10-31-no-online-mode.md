@@ -1,6 +1,8 @@
 # GTA6 Launches With No Online Mode — Here's Why
 
 slug: no-online-mode
+thumb_image: footage/GTAVI_Screenshots/People/Jason and Lucia/Jason_and_Lucia_05.jpg
+thumb_focus: 0.5,0.4
 post: Sat Oct 31, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 thumb_text: NO ONLINE|AT|LAUNCH

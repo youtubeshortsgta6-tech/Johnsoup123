@@ -1,6 +1,8 @@
 # Do This Before GTA6 Launch Night
 
 slug: launch-night-prep
+thumb_image: footage/GTAVI_Screenshots/People/Jason Duval/Jason_Duval_06.jpg
+thumb_mirror: yes
 post: Mon Nov 16, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 thumb_text: DO THIS|BEFORE|LAUNCH

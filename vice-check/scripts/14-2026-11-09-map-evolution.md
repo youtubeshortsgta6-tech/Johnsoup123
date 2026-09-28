@@ -1,6 +1,7 @@
 # GTA's Map Has Been Growing for 25 Years
 
 slug: map-evolution
+thumb_image: footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_06.jpg
 post: Mon Nov 9, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 thumb_text: 25 YEARS|OF GTA|MAPS

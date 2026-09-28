@@ -1,6 +1,8 @@
 # GTA6 Standard vs Ultimate: What You're Really Paying For
 
 slug: standard-vs-ultimate
+thumb_image: footage/GTAVI_Ultimate_Edition_Benefits/ULTIMATE_EDITION_02.jpg
+thumb_focus: 0.6,0.4
 post: Sat Oct 17, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 thumb_text: $79.99|VS|$99.99

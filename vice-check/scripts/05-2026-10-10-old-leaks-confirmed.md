@@ -1,6 +1,8 @@
 # Every Old GTA6 Leak That Turned Out To Be True
 
 slug: old-leaks-confirmed
+thumb_image: footage/GTAVI_Screenshots/Places/Vice City/Vice_City_09.jpg
+thumb_focus: 0.7,0.5
 post: Sat Oct 10, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 thumb_text: THE 2022|LEAK WAS|RIGHT

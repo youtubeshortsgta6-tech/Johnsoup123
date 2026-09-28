@@ -1,6 +1,7 @@
 # GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now
 
 slug: leak-timeline
+thumb_image: footage/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg
 post: Wed Sep 30, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
 status: Corrections applied 2026-09-26
