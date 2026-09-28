@@ -85,16 +85,17 @@ def build_text(path, headline, sub=None):
     c = Card(1280, 720)
     c.d.rectangle([0, 0, 1280, 720], fill=(11, 12, 20))
     c._backdrop(); c._badge()
-    y = 150
-    for i, line in enumerate(headline.upper().split("|")):
-        f = font(150 if len(line) <= 9 else 118 if len(line) <= 13 else 92)
+    lines = headline.upper().split("|")
+    y = 110 if len(lines) >= 3 else 170
+    for i, line in enumerate(lines):
+        f = font((136 if len(lines) >= 3 else 150) if len(line) <= 9 else 112 if len(line) <= 13 else 90)
         for dx in (-5, 5):
             for dy in (-5, 5):
                 c.d.text((60+dx, y+dy), line, font=f, fill=(0, 0, 0))
         c.d.text((60, y), line, font=f, fill=WHITE if i % 2 == 0 else PINK)
-        y += f.size + 18
+        y += f.size + 10
     if sub:
-        c.d.text((64, 640), sub, font=font(40, False), fill=TEAL, anchor="ld")
+        c.d.text((64, 692), sub, font=font(38, False), fill=TEAL, anchor="ld")
     Path(path).parent.mkdir(parents=True, exist_ok=True)
     c.im.save(path, "PNG")
     return path
