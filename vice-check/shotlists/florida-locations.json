@@ -51,8 +51,8 @@
     {
      "type": "footage",
      "file": "footage/trailer1.mp4",
-     "in": 0,
-     "out": 8,
+     "in": 1.0,
+     "out": 4.0,
      "dur": 8,
      "note": "Trailer 1 causeway aerial"
     }
@@ -70,10 +70,16 @@
      "note": "Trailer 1 boat over turquoise water"
     },
     {
+     "type": "image",
+     "file": "footage/screens/keys-bridge.jpg",
+     "dur": 6,
+     "note": "Trailer 1 frame: bridges over the Keys"
+    },
+    {
      "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_01.jpg",
+     "left": "footage/screens/keys-bridge.jpg",
      "right": "footage/photos/overseas-highway.jpg",
-     "left_text": "Leonida Keys from the air",
+     "left_text": "Leonida Keys bridges",
      "right_text": "Overseas Highway, Florida Keys",
      "dur": 7
     },
@@ -164,16 +170,16 @@
     {
      "type": "footage",
      "file": "footage/trailer1.mp4",
-     "in": 16,
-     "out": 22,
+     "in": 18.0,
+     "out": 21.0,
      "dur": 6,
      "note": "Trailer 1 swamp"
     },
     {
      "type": "footage",
      "file": "footage/trailer1.mp4",
-     "in": 39.5,
-     "out": 44,
+     "in": 41.0,
+     "out": 43.0,
      "dur": 8,
      "note": "Trailer 1 gator at the pool"
     },
@@ -387,7 +393,7 @@
     },
     {
      "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_06.jpg",
+     "left": "footage/screens/vice-ocean-view-hotel.jpg",
      "right": "footage/photos/clevelander.jpg",
      "left_text": "Ocean View Hotel",
      "right_text": "The Clevelander, Ocean Drive",
@@ -395,7 +401,7 @@
     },
     {
      "type": "compare",
-     "left": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_11.jpg",
+     "left": "footage/screens/vice-night-aerial.jpg",
      "right": "footage/photos/kaseya-center.jpg",
      "left_text": "Sahara Arena",
      "right_text": "Kaseya Center",
@@ -420,16 +426,16 @@
     {
      "type": "footage",
      "file": "footage/trailer1.mp4",
-     "in": 0,
-     "out": 4,
+     "in": 1.0,
+     "out": 4.0,
      "dur": 4,
      "note": "Trailer 1 causeway"
     },
     {
      "type": "footage",
      "file": "footage/trailer1.mp4",
-     "in": 36,
-     "out": 40,
+     "in": 36.0,
+     "out": 39.0,
      "dur": 4,
      "note": "Trailer 1 penthouse pool"
     },
