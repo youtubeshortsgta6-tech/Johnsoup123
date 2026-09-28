@@ -76,3 +76,20 @@ This build environment cannot reach YouTube, Google Drive links, Dropbox or WeTr
 4. Tell the session the release is up. `vice-check/pipeline/fetch_footage.py` pulls the assets into `footage/` and unzips the stills.
 
 Screenshots alone can also be dropped in a Google Drive folder shared with the connected account; the pipeline can pull those (they are small), but not the trailers.
+
+## Voicing through the ElevenLabs connector (how the Liam videos were made)
+
+The build box cannot reach api.elevenlabs.io directly, so Liam chapters are generated through the ElevenLabs connector in the Claude session (one request per chapter, two at a time) and downloaded to `vo/<slug>/NN.mp3`. Then:
+
+```
+python vice-check/pipeline/run.py vice-check/scripts/<script>.md --shotlist vice-check/shotlists/<slug>.json --date <post date> --engine elevenlabs-connector --tail 8
+```
+
+`--engine elevenlabs-connector` skips TTS and uses the downloaded chapter files. A missing chapter file stops the build. Cost was about 1 credit per character, roughly 4,000 to 6,500 credits per script.
+
+## Pre-voicing checks (from the handoff)
+
+- Controller Scalping (09): NOT voiced yet. Re-check stock colour at PlayStation Direct/retailers and current eBay prices in the week of Oct 19, update the stock lines, then voice and build.
+- Status Check (12): voiced 2026-09-28 after confirming date, price, pre-load and code-in-box were unchanged. Re-confirm before posting on Nov 2; re-voice only the chapter that changes.
+- Launch Night Prep (16): voiced 2026-09-28; no official install size on either store yet, so the storage chapter stands. Re-check the store listing before posting on Nov 16.
+- Nov 7 Countdown (13): HOLD, no script yet.
