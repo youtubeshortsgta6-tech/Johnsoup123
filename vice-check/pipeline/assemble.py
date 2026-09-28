@@ -24,6 +24,21 @@ def vf_footage(src):
     return CROPS.get(Path(src).name, "crop=iw-48:ih-64:24:32") + "," + FILL
 VF_ZOOM = "scale=2400:-2,zoompan=z='min(zoom+0.0006,1.08)':d={frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s=1920x1080:fps=30,format=yuv420p"
 
+def vf_zoom_to(src, region, frames):
+    """Push in from the full still to `region` = [x, y, w, h] in source pixels (widened to 16:9), over the first
+    80% of the shot, then hold. Eased so the move starts and ends softly."""
+    from PIL import Image
+    W, H = Image.open(src).size
+    x, y, w, h = region
+    if w / h < 16 / 9: w2, h2 = h * 16 / 9, h
+    else: w2, h2 = w, w * 9 / 16
+    x0 = min(max(x + w / 2 - w2 / 2, 0), W - w2); y0 = min(max(y + h / 2 - h2 / 2, 0), H - h2)
+    zf = W / w2
+    travel = max(int(frames * 0.8), 1)
+    q = f"min(on/{travel},1)"; ease = f"({q}*{q}*(3-2*{q}))"
+    return (f"scale={W}:{H},zoompan=z='1+{zf - 1:.4f}*{ease}':x='{x0:.1f}*{ease}':y='{y0:.1f}*{ease}'"
+            f":d={frames}:s=1920x1080:fps={FPS},format=yuv420p")
+
 def render_segment(seg, dur, idx, tmp, allow_ph):
     ff = ffmpeg_bin()
     out = tmp / f"seg{idx:03d}.mp4"
@@ -58,7 +73,10 @@ def render_segment(seg, dur, idx, tmp, allow_ph):
                "-vf", vf_footage(src) + f",tpad=stop_mode=clone:stop_duration={dur:.3f}", "-t", f"{dur:.3f}",
                "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-r", str(FPS), str(out)]
     else:
-        vf = VF_ZOOM.format(frames=frames) if seg.get("zoom", True) and "missing" not in src.name else VF_FIT
+        if seg.get("zoom_to"):
+            vf = vf_zoom_to(src, seg["zoom_to"], frames)
+        else:
+            vf = VF_ZOOM.format(frames=frames) if seg.get("zoom", True) and "missing" not in src.name else VF_FIT
         cmd = [ff, "-y", "-loop", "1", "-framerate", str(FPS), "-i", str(src), "-t", f"{dur:.3f}",
                "-vf", vf, "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-r", str(FPS), str(out)]
     run(cmd)

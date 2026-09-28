@@ -232,8 +232,14 @@
           "type": "image",
           "file": "footage/screens/ambrosia-election-sign.jpg",
           "dur": 10,
-          "note": "official election-sign image (fallback: Ambrosia bikers)",
-          "fallback": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_01.jpg"
+          "note": "official Ambrosia_01: push in to the Henshaw election yard signs, lower left",
+          "fallback": "footage/GTAVI_Screenshots/Places/Ambrosia/Ambrosia_01.jpg",
+          "zoom_to": [
+            0,
+            960,
+            1280,
+            720
+          ]
         },
         {
           "type": "card",
