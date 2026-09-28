@@ -3,6 +3,8 @@
 slug: standard-vs-ultimate
 post: Sat Oct 17, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
+thumb_text: $79.99|VS|$99.99
+thumb_sub: What the extra $20 actually buys
 status: Corrections applied 2026-09-26
 notes: On-screen text must match: 4 exclusive weapons, 6 businesses, Ganado (not Ganada), 2 story extras, no Nov 20 deadline.
 

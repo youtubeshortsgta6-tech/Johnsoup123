@@ -1,0 +1,368 @@
+{
+  "slug": "leaker",
+  "notes": "Generated from the owner's footage: official trailer/Extended Look recordings and Rockstar press-pack stills, weapon-free segments only.",
+  "chapters": [
+    {
+      "title": "Cold Open",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/title.png",
+          "dur": 4
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-01.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 150,
+          "out": 158,
+          "dur": 8,
+          "note": "Trailer 2: Vice City skyline pull-back at sunset"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_03.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-01.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 1,
+          "out": 4,
+          "dur": 8,
+          "note": "Trailer 1: causeway aerial at sunset"
+        }
+      ]
+    },
+    {
+      "title": "The Heist That Shouldn't Have Worked",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-02.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 30,
+          "out": 36,
+          "dur": 8,
+          "note": "Trailer 2: highway into the Vice City skyline"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_01.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-02.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 10,
+          "out": 13,
+          "dur": 8,
+          "note": "Trailer 1: turquoise water and beach aerial"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_10.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 36,
+          "out": 42,
+          "dur": 8,
+          "note": "Trailer 2: beach gym on Ocean Beach"
+        }
+      ]
+    },
+    {
+      "title": "The Arrest And The Trial That Wasn't Normal",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-03.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 18,
+          "out": 21,
+          "dur": 8,
+          "note": "Trailer 1: swamp at sunrise"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-03.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 42,
+          "out": 48,
+          "dur": 8,
+          "note": "Trailer 2: street murals"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Vice City/Vice_City_08.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 30,
+          "out": 33,
+          "dur": 8,
+          "note": "Trailer 1: night aerial and neon street"
+        }
+      ]
+    },
+    {
+      "title": "An Indefinite Hospital Order",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-04.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 6,
+          "out": 12,
+          "dur": 8,
+          "note": "Trailer 2: Jason and the truck"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_01.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-04.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1200,
+          "out": 1210,
+          "dur": 8,
+          "note": "Extended Look: daytime skyline"
+        }
+      ]
+    },
+    {
+      "title": "Moved To Prison, Right Before Launch",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-05.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 18,
+          "out": 24,
+          "dur": 8,
+          "note": "Trailer 2: stilt house in the Keys"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-05.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 78,
+          "out": 84,
+          "dur": 8,
+          "note": "Trailer 2: dock at sunset"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_03.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1240,
+          "out": 1250,
+          "dur": 8,
+          "note": "Extended Look: driving toward the towers"
+        }
+      ]
+    },
+    {
+      "title": "The New Leaker, CyberLeek",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-06.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 24,
+          "out": 30,
+          "dur": 8,
+          "note": "Trailer 2: Jason driving"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Grassrivers/Grassrivers_05.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-06.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer1.mp4",
+          "in": 35,
+          "out": 39,
+          "dur": 8,
+          "note": "Trailer 1: Keys bridges and penthouse pool"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_01.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 84,
+          "out": 90,
+          "dur": 8,
+          "note": "Trailer 2: Lucia and Jason in the kitchen"
+        }
+      ]
+    },
+    {
+      "title": "Rockstar's Response, Both Times",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-07.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1720,
+          "out": 1730,
+          "dur": 8,
+          "note": "Extended Look: aerial of the beach"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Port Gellhorn/Port_Gellhorn_06.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-07.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 144,
+          "out": 150,
+          "dur": 8,
+          "note": "Trailer 2: Lucia in the convertible"
+        }
+      ]
+    },
+    {
+      "title": "Close",
+      "segments": [
+        {
+          "type": "card",
+          "card": "work/cards/leaker/chapter-08.png",
+          "dur": 4
+        },
+        {
+          "type": "footage",
+          "file": "footage/extended-look-2026-08.mp4",
+          "in": 1600,
+          "out": 1610,
+          "dur": 8,
+          "note": "Extended Look: street driving"
+        },
+        {
+          "type": "image",
+          "file": "footage/GTAVI_Screenshots/Places/Mount Kalaga National Park/Mount_Kalaga_National_Park_02.jpg",
+          "dur": 7,
+          "note": "official still"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/quote-08.png",
+          "dur": 7
+        },
+        {
+          "type": "footage",
+          "file": "footage/trailer2.mp4",
+          "in": 12,
+          "out": 18,
+          "dur": 8,
+          "note": "Trailer 2: Brian Heder"
+        },
+        {
+          "type": "card",
+          "card": "work/cards/leaker/endscreen.png",
+          "dur": 12
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,8 @@
 slug: no-online-mode
 post: Sat Oct 31, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
+thumb_text: NO ONLINE|AT|LAUNCH
+thumb_sub: Take-Two confirmed it
 status: Corrections applied 2026-09-26
 
 ## Chapter: Cold Open

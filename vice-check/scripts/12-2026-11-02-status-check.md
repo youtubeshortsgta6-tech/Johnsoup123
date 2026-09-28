@@ -3,6 +3,8 @@
 slug: status-check
 post: Mon Nov 2, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
+thumb_text: 17 DAYS|STATUS|CHECK
+thumb_sub: Date, price, platforms, pre-load
 status: Corrections applied 2026-09-26
 notes: Before voicing: confirm nothing major changed (date, price, pre-load) since late September.
 

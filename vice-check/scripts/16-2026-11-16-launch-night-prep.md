@@ -3,6 +3,8 @@
 slug: launch-night-prep
 post: Mon Nov 16, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
+thumb_text: DO THIS|BEFORE|LAUNCH
+thumb_sub: Storage, pre-load, settings
 status: Corrections applied 2026-09-26
 notes: Before voicing: check the real file size on the PS5 and Xbox store listings and update the storage chapter if it's changed.
 

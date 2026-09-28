@@ -3,6 +3,8 @@
 slug: controller-scalping
 post: Sat Oct 24, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
+thumb_text: SCALPED|AT 2X|PRICE
+thumb_sub: Don't buy it on eBay
 status: Corrections applied 2026-09-26
 notes: RE-CHECK BEFORE VOICING (week of Oct 19): which color is in stock at PlayStation Direct and retailers, and current eBay prices. Stock lines below reflect Sept 11-12 reporting.
 

@@ -3,6 +3,8 @@
 slug: old-leaks-confirmed
 post: Sat Oct 10, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
+thumb_text: THE 2022|LEAK WAS|RIGHT
+thumb_sub: Every claim Rockstar confirmed
 status: Corrections applied 2026-09-26
 
 ## Chapter: Cold Open

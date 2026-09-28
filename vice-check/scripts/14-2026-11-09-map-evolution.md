@@ -3,6 +3,8 @@
 slug: map-evolution
 post: Mon Nov 9, 6:00 PM PT
 voice: Liam (ElevenLabs TX3LPaxmHKxFdv7VOQHJ)
+thumb_text: 25 YEARS|OF GTA|MAPS
+thumb_sub: GTA III to Leonida, compared
 status: Corrections applied 2026-09-26
 notes: On-screen text: "230M+ copies sold".
 
