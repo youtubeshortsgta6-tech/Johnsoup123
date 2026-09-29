@@ -22,11 +22,23 @@ Thirty days. One month from tonight, GTA 6 unlocks. And the internet is about to
 
 First, the locked list. These haven't moved in months and they won't. November 19th, 2026. PlayStation 5, Xbox Series X and Series S. No PC at launch, no last-gen. Seventy-nine ninety-nine for Standard, ninety-nine ninety-nine for Ultimate, and you can buy the Ultimate upgrade later, any time, so nobody's locked into a decision today. Two protagonists, Jason and Lucia. The state of Leonida, six regions, Vice City at the center. Single-player first, with Take-Two's CEO on record that there's no recurrent spending planned for launch. Pre-orders open since late June. Pre-load opens November 12th, one week before launch. That's the whole confirmed list, and if a video tells you something outside it as fact, ask where it came from.
 
+## Chapter: The Editions, One More Time
+
+[VISUAL: card, two columns, Standard and Ultimate, lines appearing as they're read.]
+
+Because the question still fills every comment section, one more time on editions, with the confirmed contents only. Standard is the full game, nothing cut, seventy-nine ninety-nine. Ultimate adds Rockstar's announced bonus pack: five vehicles, four weapons, six businesses and properties, and two story extras, for twenty dollars more. The detail that settles the argument is the upgrade path. Buy Standard on day one, decide you want the extras in December, and you pay the difference then. Nobody who buys Standard is locked out of anything. And on physical versus digital, the retail box contains a code, not a disc, so the choice is about where you like to shop, not about skipping a download. If you want the item-by-item breakdown of the Ultimate pack, that video is linked below.
+
 ## Chapter: What Changed Since Summer
 
 [VISUAL: Extended Look footage, the August 2026 release, skyline and rooftop pool shots.]
 
 Now what's actually new since the summer, because a lot of channels are still running spring talking points. In August, Rockstar put out the Extended Look, the longest official footage yet, and it settled a few arguments on its own. The scale of Vice City at night. Wildlife and weather as a real system, not a trailer trick. And it confirmed the tone: this is a story about two people, not a heist simulator with a plot bolted on. In September, Sony confirmed the two GTA 6 DualSense controllers at eighty-four ninety-nine, PS5 only, shipping on launch day, and they sold out at the first retailers within hours. And Take-Two's CEO made the single-player statement that killed the "GTA Online 2 at launch" rumor for good. So if your last update was June, those three things are what you missed.
+
+## Chapter: What We Know About the Story
+
+[VISUAL: Jason and Lucia official stills, no weapons in frame. Keys stilt house, then the Vice City skyline.]
+
+One more confirmed area people keep asking about: the story. Two playable leads, Jason and Lucia, and a Bonnie-and-Clyde dynamic at the center, confirmed since the first trailer and never walked back. Rockstar's own character pages fill in the start. Jason came out of the Army and ended up in the Leonida Keys working for local drug runners, living rent-free in a property owned by a smuggler named Brian Heder in exchange for helping with shakedowns. Lucia's official page starts her story on the wrong side of a prison sentence. [VERIFY exact wording on Rockstar's site before voicing.] Where the two of them meet, and how they get from the Keys to Vice City, is the part Rockstar hasn't shown, and the part the leaked material claims to. We'll wait for the game. Confirmed: two leads, a partnership, a start in the Keys. Everything past that is either the trailers or your imagination.
 
 ## Chapter: The Calendar: Now to November 12th
 

@@ -8,7 +8,7 @@ thumb_focus: 0.5,0.5
 thumb_text: THE ENTIRE|MAP|CHECKED
 thumb_sub: Confirmed vs fan maps, region by region
 status: DRAFT 2026-09-29. Not voiced. Owner approves wording first.
-notes: Every fact below is taken from scripts already fact-checked in this set (Florida Locations, Map Evolution, Status Check). New claims are marked [VERIFY]. Target 10:00 at Liam's pace, about 1,500 words. No leaked map, no data-mined coordinates on screen. Fan maps are described, not shown, unless the owner has a licensed one.
+notes: Every fact below is taken from scripts already fact-checked in this set (Florida Locations, Map Evolution, Status Check). New claims are marked [VERIFY]. Target 10:00 at Liam's pace, about 1,500 words. Driving-time figures for GTA 5 are approximate community estimates; say "about". No leaked map, no data-mined coordinates on screen. Fan maps are described, not shown, unless the owner has a licensed one.
 
 ## Chapter: Cold Open
 
@@ -69,6 +69,14 @@ At the top, Mount Kalaga National Park. Forests, rivers, rock bluffs. Rockstar s
 And then the city. Vice City is where Rockstar has shown the most, and where the fan maps are most reliable, because the trailers give you real landmarks to pin. Rockstar's site names the districts. Ocean Beach, the art deco hotels on white sand. Little Cuba. The Tisha-Wocka flea market. A port Rockstar calls the cruise ship capital of the world. Add the arena, the Sahara Arena, home of the Vice City Narcos, and the street-art district you see in Trailer 2. Those are confirmed places with confirmed names. The reported part is the scale: about twice Los Santos for the city, and with the suburbs, around eleven times the Los Santos surroundings. Again, that's from the studio visit, not a spec sheet.
 
 Here's the check that matters. Every district Rockstar has named lines up with a real Miami neighborhood, which means the city's layout almost certainly follows Miami's real geography: a mainland city, a causeway, and a beach on a barrier island. If a fan map puts the beach somewhere else, the fan map is wrong.
+
+## Chapter: What Twice GTA 5 Would Feel Like
+
+[VISUAL: original graphic, GTA 5's map outline next to a same-scale blank shape twice its area. Then the Extended Look night skyline and the rooftop pool shot.]
+
+Here's a way to make the reported number mean something. GTA 5's map, Los Santos plus Blaine County, takes about six or seven minutes to drive top to bottom on the freeway at full speed, and that's a map most people never finished exploring. Double the area and you're looking at a drive from the Keys to Mount Kalaga that runs closer to a quarter of an hour, with a swamp, a lake, a sugar town and a second coast in between. That's the difference between a map you cross and a map you travel.
+
+And the Extended Look from August gave the first real sense of that density. Vice City at night from a rooftop, lit to the horizon. A pool deck high above the beach. Weather rolling in over the skyline. Rockstar hasn't shown the whole map, but it has shown that the parts it built are built all the way down. So when someone asks whether twice the size means twice as empty, the official footage so far says no. The reported size is unconfirmed. The detail is on screen.
 
 ## Chapter: What Nobody Knows Yet
 
