@@ -1,413 +1,412 @@
 VICE CHECK SHORTS SCHEDULE (post on the GTA6 Shorts channel; all times Pacific)
-55 Shorts, Sep 30 to Nov 18. Slots: 12:00 PM and 8:00 PM. Release-day Shorts post at 8:00 PM, two hours after the long video goes live, so the Related video link works.
+55 Shorts, Sep 30 to Nov 18. Slots: 12:00 PM and 8:00 PM, never more than 2 a day. Release-day Shorts post at 8:00 PM, two hours after the long video goes live, so the Related video link can point at it.
 
-Each Short: upload the .mp4 as a Short. Title = headline below. Description = caption below. Under 'Related video' pick the long video named (only possible once it is public; for teasers pick the channel's latest video instead). Pin a comment with the link. Tags: GTA 6, GTA VI, Shorts.
-Rules: never more than 2 per day. Not made for kids. Altered content: No.
+Each Short: upload the .mp4 as a Short. Title = headline. Description = caption. Related video = the long video named (teasers: the channel's latest video, since the long one isn't public yet). Pin a comment with the link. Not made for kids. Altered content: No.
 
 ==============================================================================
 Wednesday Sep 30, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/florida-locations-ch01.mp4
     title:    GTA 6 copied a real Florida statue
     caption:  GTA 6 copied a real Florida statue. Full check on VICE Check: https://www.youtube.com/watch?v=OpvLWV8sVgY  #GTA6 #GTAVI #Shorts
-    related:  Every Real Florida Location Hidden in GTA 6 (2026-09-28)
+    related:  Every Real Florida Location Hidden in GTA 6 (long video posts 2026-09-28 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/florida-locations-ch04.mp4
     title:    The Everglades are in GTA 6
     caption:  The Everglades are in GTA 6. Full check on VICE Check: https://www.youtube.com/watch?v=OpvLWV8sVgY  #GTA6 #GTAVI #Shorts
-    related:  Every Real Florida Location Hidden in GTA 6 (2026-09-28)
+    related:  Every Real Florida Location Hidden in GTA 6 (long video posts 2026-09-28 6:00 PM PT)
 
 ==============================================================================
 Thursday Oct 01, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/florida-locations-ch07.mp4
     title:    The one GTA 6 region that isn't real Florida
     caption:  The one GTA 6 region that isn't real Florida. Full check on VICE Check: https://www.youtube.com/watch?v=OpvLWV8sVgY  #GTA6 #GTAVI #Shorts
-    related:  Every Real Florida Location Hidden in GTA 6 (2026-09-28)
+    related:  Every Real Florida Location Hidden in GTA 6 (long video posts 2026-09-28 6:00 PM PT)
 
-  08:00 PM  TEASER (long video tomorrow 6 PM)
+  08:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/leak-timeline-ch01.mp4
     title:    Every GTA 6 leak that mattered, 2022 to now
     caption:  Every GTA 6 leak that mattered, 2022 to now. Full check on VICE Check: [link to 'GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now (2026-09-30)
+    related:  GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now (long video posts 2026-09-30 6:00 PM PT)
 
 ==============================================================================
 Friday Oct 02, 2026
-  12:00 PM  FOLLOW-UP 2 (link the long video)
+  12:00 PM  FOLLOW-UP 2 (related = this long video)
     file:     shorts/florida-locations-ch09.mp4
     title:    5 real places in GTA 6, 1 Rockstar made up
     caption:  5 real places in GTA 6, 1 Rockstar made up. Full check on VICE Check: https://www.youtube.com/watch?v=OpvLWV8sVgY  #GTA6 #GTAVI #Shorts
-    related:  Every Real Florida Location Hidden in GTA 6 (2026-09-28)
+    related:  Every Real Florida Location Hidden in GTA 6 (long video posts 2026-09-28 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/leak-timeline-ch02.mp4
     title:    The leak that broke the internet
     caption:  The leak that broke the internet. Full check on VICE Check: [link to 'GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now (2026-09-30)
+    related:  GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now (long video posts 2026-09-30 6:00 PM PT)
 
 ==============================================================================
 Saturday Oct 03, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/leak-timeline-ch07.mp4
     title:    The $80 price reveal, checked
     caption:  The $80 price reveal, checked. Full check on VICE Check: [link to 'GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now (2026-09-30)
+    related:  GTA6 Leak Timeline: Every Confirmed Leak From 2022 To Now (long video posts 2026-09-30 6:00 PM PT)
 
-  08:00 PM  TEASER (long video tomorrow 6 PM)
+  08:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/news-week-1-ch02.mp4
     title:    How we rate every GTA 6 story
     caption:  How we rate every GTA 6 story. Full check on VICE Check: [link to 'This Week in GTA 6, Checked' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  This Week in GTA 6, Checked (2026-10-02)
+    related:  This Week in GTA 6, Checked (long video posts 2026-10-02 6:00 PM PT)
 
 ==============================================================================
 Sunday Oct 04, 2026
-  12:00 PM  RELEASE DAY (link the long video)
+  12:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/news-week-1-ch07.mp4
     title:    The GTA 6 map leak we're ignoring
     caption:  The GTA 6 map leak we're ignoring. Full check on VICE Check: [link to 'This Week in GTA 6, Checked' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  This Week in GTA 6, Checked (2026-10-02)
+    related:  This Week in GTA 6, Checked (long video posts 2026-10-02 6:00 PM PT)
 
-  08:00 PM  FOLLOW-UP (link the long video)
+  08:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/news-week-1-ch09.mp4
     title:    This week's GTA 6 scoreboard
     caption:  This week's GTA 6 scoreboard. Full check on VICE Check: [link to 'This Week in GTA 6, Checked' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  This Week in GTA 6, Checked (2026-10-02)
+    related:  This Week in GTA 6, Checked (long video posts 2026-10-02 6:00 PM PT)
 
 ==============================================================================
 Monday Oct 05, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/leaker-ch01.mp4
     title:    A 17-year-old cost Rockstar $5 million
     caption:  A 17-year-old cost Rockstar $5 million. Full check on VICE Check: [link to 'The GTA6 Leaker Rockstar Still Can't Stop' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  The GTA6 Leaker Rockstar Still Can't Stop (2026-10-03)
+    related:  The GTA6 Leaker Rockstar Still Can't Stop (long video posts 2026-10-03 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/leaker-ch04.mp4
     title:    The GTA 6 leaker got an indefinite hospital order
     caption:  The GTA 6 leaker got an indefinite hospital order. Full check on VICE Check: [link to 'The GTA6 Leaker Rockstar Still Can't Stop' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  The GTA6 Leaker Rockstar Still Can't Stop (2026-10-03)
+    related:  The GTA6 Leaker Rockstar Still Can't Stop (long video posts 2026-10-03 6:00 PM PT)
 
 ==============================================================================
 Tuesday Oct 06, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/leaker-ch06.mp4
     title:    The new GTA 6 leaker: CyberLeek
     caption:  The new GTA 6 leaker: CyberLeek. Full check on VICE Check: [link to 'The GTA6 Leaker Rockstar Still Can't Stop' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  The GTA6 Leaker Rockstar Still Can't Stop (2026-10-03)
+    related:  The GTA6 Leaker Rockstar Still Can't Stop (long video posts 2026-10-03 6:00 PM PT)
 
-  08:00 PM  TEASER (long video tomorrow 6 PM)
+  08:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/rockstar-statement-ch01.mp4
     title:    Rockstar said it twice
     caption:  Rockstar said it twice. Full check on VICE Check: [link to 'Rockstar's Official Statement On The GTA6 Leaks, Explained' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Rockstar's Official Statement On The GTA6 Leaks, Explained (2026-10-05)
+    related:  Rockstar's Official Statement On The GTA6 Leaks, Explained (long video posts 2026-10-05 6:00 PM PT)
 
 ==============================================================================
 Wednesday Oct 07, 2026
-  12:00 PM  RELEASE DAY (link the long video)
+  12:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/rockstar-statement-ch02.mp4
     title:    Why Rockstar had to speak at all
     caption:  Why Rockstar had to speak at all. Full check on VICE Check: [link to 'Rockstar's Official Statement On The GTA6 Leaks, Explained' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Rockstar's Official Statement On The GTA6 Leaks, Explained (2026-10-05)
+    related:  Rockstar's Official Statement On The GTA6 Leaks, Explained (long video posts 2026-10-05 6:00 PM PT)
 
-  08:00 PM  FOLLOW-UP (link the long video)
+  08:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/rockstar-statement-ch06.mp4
     title:    What Rockstar never says about leaks
     caption:  What Rockstar never says about leaks. Full check on VICE Check: [link to 'Rockstar's Official Statement On The GTA6 Leaks, Explained' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Rockstar's Official Statement On The GTA6 Leaks, Explained (2026-10-05)
+    related:  Rockstar's Official Statement On The GTA6 Leaks, Explained (long video posts 2026-10-05 6:00 PM PT)
 
 ==============================================================================
 Friday Oct 09, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/old-leaks-confirmed-ch01.mp4
     title:    Every 2022 GTA 6 leak that came true
     caption:  Every 2022 GTA 6 leak that came true. Full check on VICE Check: [link to 'Every Old GTA6 Leak That Turned Out To Be True' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Every Old GTA6 Leak That Turned Out To Be True (2026-10-10)
+    related:  Every Old GTA6 Leak That Turned Out To Be True (long video posts 2026-10-10 6:00 PM PT)
 
 ==============================================================================
 Saturday Oct 10, 2026
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/old-leaks-confirmed-ch04.mp4
     title:    The Lucia leak was right
     caption:  The Lucia leak was right. Full check on VICE Check: [link to 'Every Old GTA6 Leak That Turned Out To Be True' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Every Old GTA6 Leak That Turned Out To Be True (2026-10-10)
+    related:  Every Old GTA6 Leak That Turned Out To Be True (long video posts 2026-10-10 6:00 PM PT)
 
 ==============================================================================
 Sunday Oct 11, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/price-meme-ch01.mp4
     title:    $80 became a meme in under an hour
     caption:  $80 became a meme in under an hour. Full check on VICE Check: [link to 'The GTA6 Price Meme Took Over The Internet' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  The GTA6 Price Meme Took Over The Internet (2026-10-12)
+    related:  The GTA6 Price Meme Took Over The Internet (long video posts 2026-10-12 6:00 PM PT)
 
 ==============================================================================
 Monday Oct 12, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/old-leaks-confirmed-ch06.mp4
     title:    Bonnie and Clyde, confirmed
     caption:  Bonnie and Clyde, confirmed. Full check on VICE Check: [link to 'Every Old GTA6 Leak That Turned Out To Be True' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Every Old GTA6 Leak That Turned Out To Be True (2026-10-10)
+    related:  Every Old GTA6 Leak That Turned Out To Be True (long video posts 2026-10-10 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/price-meme-ch04.mp4
     title:    The 'cut-up base game' theory, checked
     caption:  The 'cut-up base game' theory, checked. Full check on VICE Check: [link to 'The GTA6 Price Meme Took Over The Internet' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  The GTA6 Price Meme Took Over The Internet (2026-10-12)
+    related:  The GTA6 Price Meme Took Over The Internet (long video posts 2026-10-12 6:00 PM PT)
 
 ==============================================================================
 Tuesday Oct 13, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/map-checked-ch02.mp4
     title:    Everything Rockstar has actually confirmed about the map
     caption:  Everything Rockstar has actually confirmed about the map. Full check on VICE Check: [link to 'The Entire GTA 6 Map, Checked' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  The Entire GTA 6 Map, Checked (2026-10-14)
+    related:  The Entire GTA 6 Map, Checked (long video posts 2026-10-14 6:00 PM PT)
 
 ==============================================================================
 Wednesday Oct 14, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/price-meme-ch08.mp4
     title:    What the $80 price means for you
     caption:  What the $80 price means for you. Full check on VICE Check: [link to 'The GTA6 Price Meme Took Over The Internet' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  The GTA6 Price Meme Took Over The Internet (2026-10-12)
+    related:  The GTA6 Price Meme Took Over The Internet (long video posts 2026-10-12 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/map-checked-ch10.mp4
     title:    What nobody knows about the GTA 6 map
     caption:  What nobody knows about the GTA 6 map. Full check on VICE Check: [link to 'The Entire GTA 6 Map, Checked' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  The Entire GTA 6 Map, Checked (2026-10-14)
+    related:  The Entire GTA 6 Map, Checked (long video posts 2026-10-14 6:00 PM PT)
 
 ==============================================================================
 Friday Oct 16, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/map-checked-ch11.mp4
     title:    The GTA 6 map scoreboard
     caption:  The GTA 6 map scoreboard. Full check on VICE Check: [link to 'The Entire GTA 6 Map, Checked' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  The Entire GTA 6 Map, Checked (2026-10-14)
+    related:  The Entire GTA 6 Map, Checked (long video posts 2026-10-14 6:00 PM PT)
 
-  08:00 PM  TEASER (long video tomorrow 6 PM)
+  08:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/standard-vs-ultimate-ch01.mp4
     title:    $79.99 vs $99.99: what you're paying for
     caption:  $79.99 vs $99.99: what you're paying for. Full check on VICE Check: [link to 'GTA6 Standard vs Ultimate: What You're Really Paying For' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6 Standard vs Ultimate: What You're Really Paying For (2026-10-17)
+    related:  GTA6 Standard vs Ultimate: What You're Really Paying For (long video posts 2026-10-17 6:00 PM PT)
 
 ==============================================================================
 Saturday Oct 17, 2026
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/standard-vs-ultimate-ch07.mp4
     title:    The one detail that changes the math
     caption:  The one detail that changes the math. Full check on VICE Check: [link to 'GTA6 Standard vs Ultimate: What You're Really Paying For' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6 Standard vs Ultimate: What You're Really Paying For (2026-10-17)
+    related:  GTA6 Standard vs Ultimate: What You're Really Paying For (long video posts 2026-10-17 6:00 PM PT)
 
 ==============================================================================
 Sunday Oct 18, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/worth-80-ch01.mp4
     title:    Is GTA 6 worth $80?
     caption:  Is GTA 6 worth $80?. Full check on VICE Check: [link to 'People Saying GTA6 Isn't Worth $80 Are Wrong' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  People Saying GTA6 Isn't Worth $80 Are Wrong (2026-10-19)
+    related:  People Saying GTA6 Isn't Worth $80 Are Wrong (long video posts 2026-10-19 6:00 PM PT)
 
 ==============================================================================
 Monday Oct 19, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/standard-vs-ultimate-ch06.mp4
     title:    Ultimate Edition's story extras
     caption:  Ultimate Edition's story extras. Full check on VICE Check: [link to 'GTA6 Standard vs Ultimate: What You're Really Paying For' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6 Standard vs Ultimate: What You're Really Paying For (2026-10-17)
+    related:  GTA6 Standard vs Ultimate: What You're Really Paying For (long video posts 2026-10-17 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/worth-80-ch04.mp4
     title:    The $3 billion budget nobody talks about
     caption:  The $3 billion budget nobody talks about. Full check on VICE Check: [link to 'People Saying GTA6 Isn't Worth $80 Are Wrong' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  People Saying GTA6 Isn't Worth $80 Are Wrong (2026-10-19)
+    related:  People Saying GTA6 Isn't Worth $80 Are Wrong (long video posts 2026-10-19 6:00 PM PT)
 
 ==============================================================================
 Tuesday Oct 20, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/countdown-30-days-ch01.mp4
     title:    30 days until GTA 6
     caption:  30 days until GTA 6. Full check on VICE Check: [link to '30 Days Until GTA 6' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  30 Days Until GTA 6 (2026-10-20)
+    related:  30 Days Until GTA 6 (long video posts 2026-10-20 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/countdown-30-days-ch09.mp4
     title:    5 things still NOT confirmed about GTA 6
     caption:  5 things still NOT confirmed about GTA 6. Full check on VICE Check: [link to '30 Days Until GTA 6' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  30 Days Until GTA 6 (2026-10-20)
+    related:  30 Days Until GTA 6 (long video posts 2026-10-20 6:00 PM PT)
 
 ==============================================================================
 Wednesday Oct 21, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/worth-80-ch08.mp4
     title:    The verdict on $80
     caption:  The verdict on $80. Full check on VICE Check: [link to 'People Saying GTA6 Isn't Worth $80 Are Wrong' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  People Saying GTA6 Isn't Worth $80 Are Wrong (2026-10-19)
+    related:  People Saying GTA6 Isn't Worth $80 Are Wrong (long video posts 2026-10-19 6:00 PM PT)
 
 ==============================================================================
 Thursday Oct 22, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/countdown-30-days-ch10.mp4
     title:    The GTA 6 rumors to ignore
     caption:  The GTA 6 rumors to ignore. Full check on VICE Check: [link to '30 Days Until GTA 6' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  30 Days Until GTA 6 (2026-10-20)
+    related:  30 Days Until GTA 6 (long video posts 2026-10-20 6:00 PM PT)
 
 ==============================================================================
 Friday Oct 23, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/controller-scalping-ch01.mp4
     title:    Scalped before it even ships
     caption:  Scalped before it even ships. Full check on VICE Check: [link to 'GTA6's Controller Is Already Being Scalped At 2x Price' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6's Controller Is Already Being Scalped At 2x Price (2026-10-24)
+    related:  GTA6's Controller Is Already Being Scalped At 2x Price (long video posts 2026-10-24 6:00 PM PT)
 
 ==============================================================================
 Saturday Oct 24, 2026
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/controller-scalping-ch04.mp4
     title:    The real GTA 6 controller scalping numbers
     caption:  The real GTA 6 controller scalping numbers. Full check on VICE Check: [link to 'GTA6's Controller Is Already Being Scalped At 2x Price' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6's Controller Is Already Being Scalped At 2x Price (2026-10-24)
+    related:  GTA6's Controller Is Already Being Scalped At 2x Price (long video posts 2026-10-24 6:00 PM PT)
 
 ==============================================================================
 Sunday Oct 25, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/pc-at-launch-ch01.mp4
     title:    GTA 6 on PC? The truth
     caption:  GTA 6 on PC? The truth. Full check on VICE Check: [link to 'Will GTA6 Come To PC At Launch? The Truth' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Will GTA6 Come To PC At Launch? The Truth (2026-10-26)
+    related:  Will GTA6 Come To PC At Launch? The Truth (long video posts 2026-10-26 6:00 PM PT)
 
 ==============================================================================
 Monday Oct 26, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/controller-scalping-ch07.mp4
     title:    Don't buy the GTA 6 controller on eBay
     caption:  Don't buy the GTA 6 controller on eBay. Full check on VICE Check: [link to 'GTA6's Controller Is Already Being Scalped At 2x Price' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6's Controller Is Already Being Scalped At 2x Price (2026-10-24)
+    related:  GTA6's Controller Is Already Being Scalped At 2x Price (long video posts 2026-10-24 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/pc-at-launch-ch03.mp4
     title:    GTA 5's PC wait, and what it means for GTA 6
     caption:  GTA 5's PC wait, and what it means for GTA 6. Full check on VICE Check: [link to 'Will GTA6 Come To PC At Launch? The Truth' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Will GTA6 Come To PC At Launch? The Truth (2026-10-26)
+    related:  Will GTA6 Come To PC At Launch? The Truth (long video posts 2026-10-26 6:00 PM PT)
 
 ==============================================================================
 Wednesday Oct 28, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/pc-at-launch-ch06.mp4
     title:    GTA 6 on PC: rumor vs fact
     caption:  GTA 6 on PC: rumor vs fact. Full check on VICE Check: [link to 'Will GTA6 Come To PC At Launch? The Truth' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Will GTA6 Come To PC At Launch? The Truth (2026-10-26)
+    related:  Will GTA6 Come To PC At Launch? The Truth (long video posts 2026-10-26 6:00 PM PT)
 
 ==============================================================================
 Friday Oct 30, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/no-online-mode-ch01.mp4
     title:    GTA 6 launches with no online mode
     caption:  GTA 6 launches with no online mode. Full check on VICE Check: [link to 'GTA6 Launches With No Online Mode' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6 Launches With No Online Mode (2026-10-31)
+    related:  GTA6 Launches With No Online Mode (long video posts 2026-10-31 6:00 PM PT)
 
 ==============================================================================
 Saturday Oct 31, 2026
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/no-online-mode-ch02.mp4
     title:    What's actually confirmed about GTA 6 Online
     caption:  What's actually confirmed about GTA 6 Online. Full check on VICE Check: [link to 'GTA6 Launches With No Online Mode' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6 Launches With No Online Mode (2026-10-31)
+    related:  GTA6 Launches With No Online Mode (long video posts 2026-10-31 6:00 PM PT)
 
 ==============================================================================
 Sunday Nov 01, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/status-check-ch01.mp4
     title:    17 days until GTA 6: the status check
     caption:  17 days until GTA 6: the status check. Full check on VICE Check: [link to '17 Days Until GTA6: The Full Status Check' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  17 Days Until GTA6: The Full Status Check (2026-11-02)
+    related:  17 Days Until GTA6: The Full Status Check (long video posts 2026-11-02 6:00 PM PT)
 
 ==============================================================================
 Monday Nov 02, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/no-online-mode-ch07.mp4
     title:    No online: what it means on launch day
     caption:  No online: what it means on launch day. Full check on VICE Check: [link to 'GTA6 Launches With No Online Mode' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA6 Launches With No Online Mode (2026-10-31)
+    related:  GTA6 Launches With No Online Mode (long video posts 2026-10-31 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/status-check-ch02.mp4
     title:    GTA 6 release date, locked
     caption:  GTA 6 release date, locked. Full check on VICE Check: [link to '17 Days Until GTA6: The Full Status Check' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  17 Days Until GTA6: The Full Status Check (2026-11-02)
+    related:  17 Days Until GTA6: The Full Status Check (long video posts 2026-11-02 6:00 PM PT)
 
 ==============================================================================
 Wednesday Nov 04, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/status-check-ch09.mp4
     title:    Where GTA 6 stands, 17 days out
     caption:  Where GTA 6 stands, 17 days out. Full check on VICE Check: [link to '17 Days Until GTA6: The Full Status Check' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  17 Days Until GTA6: The Full Status Check (2026-11-02)
+    related:  17 Days Until GTA6: The Full Status Check (long video posts 2026-11-02 6:00 PM PT)
 
 ==============================================================================
 Sunday Nov 08, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/map-evolution-ch01.mp4
     title:    25 years of GTA maps
     caption:  25 years of GTA maps. Full check on VICE Check: [link to 'GTA's Map Has Been Growing for 25 Years' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA's Map Has Been Growing for 25 Years (2026-11-09)
+    related:  GTA's Map Has Been Growing for 25 Years (long video posts 2026-11-09 6:00 PM PT)
 
 ==============================================================================
 Monday Nov 09, 2026
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/map-evolution-ch05.mp4
     title:    GTA IV went smaller on purpose
     caption:  GTA IV went smaller on purpose. Full check on VICE Check: [link to 'GTA's Map Has Been Growing for 25 Years' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA's Map Has Been Growing for 25 Years (2026-11-09)
+    related:  GTA's Map Has Been Growing for 25 Years (long video posts 2026-11-09 6:00 PM PT)
 
 ==============================================================================
 Wednesday Nov 11, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/map-evolution-ch08.mp4
     title:    Why the GTA 6 map size matters
     caption:  Why the GTA 6 map size matters. Full check on VICE Check: [link to 'GTA's Map Has Been Growing for 25 Years' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA's Map Has Been Growing for 25 Years (2026-11-09)
+    related:  GTA's Map Has Been Growing for 25 Years (long video posts 2026-11-09 6:00 PM PT)
 
 ==============================================================================
 Friday Nov 13, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/will-flop-debunked-ch01.mp4
     title:    'GTA 6 will flop'? Debunked
     caption:  'GTA 6 will flop'? Debunked. Full check on VICE Check: [link to 'GTA 6 Will Flop, Debunked' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA 6 Will Flop, Debunked (2026-11-14)
+    related:  GTA 6 Will Flop, Debunked (long video posts 2026-11-14 6:00 PM PT)
 
 ==============================================================================
 Saturday Nov 14, 2026
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/will-flop-debunked-ch03.mp4
     title:    The trailer numbers don't lie
     caption:  The trailer numbers don't lie. Full check on VICE Check: [link to 'GTA 6 Will Flop, Debunked' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA 6 Will Flop, Debunked (2026-11-14)
+    related:  GTA 6 Will Flop, Debunked (long video posts 2026-11-14 6:00 PM PT)
 
 ==============================================================================
 Sunday Nov 15, 2026
-  12:00 PM  TEASER (long video tomorrow 6 PM)
+  12:00 PM  TEASER (long video tomorrow 6 PM; related = channel's latest video)
     file:     shorts/launch-night-prep-ch01.mp4
     title:    Do this before GTA 6 launch night
     caption:  Do this before GTA 6 launch night. Full check on VICE Check: [link to 'Do This Before GTA6 Launch Night' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Do This Before GTA6 Launch Night (2026-11-16)
+    related:  Do This Before GTA6 Launch Night (long video posts 2026-11-16 6:00 PM PT)
 
 ==============================================================================
 Monday Nov 16, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/will-flop-debunked-ch06.mp4
     title:    What a GTA 6 flop would actually require
     caption:  What a GTA 6 flop would actually require. Full check on VICE Check: [link to 'GTA 6 Will Flop, Debunked' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  GTA 6 Will Flop, Debunked (2026-11-14)
+    related:  GTA 6 Will Flop, Debunked (long video posts 2026-11-14 6:00 PM PT)
 
-  08:00 PM  RELEASE DAY (link the long video)
+  08:00 PM  RELEASE DAY (related = this long video)
     file:     shorts/launch-night-prep-ch04.mp4
     title:    How much storage GTA 6 actually needs
     caption:  How much storage GTA 6 actually needs. Full check on VICE Check: [link to 'Do This Before GTA6 Launch Night' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Do This Before GTA6 Launch Night (2026-11-16)
+    related:  Do This Before GTA6 Launch Night (long video posts 2026-11-16 6:00 PM PT)
 
 ==============================================================================
 Wednesday Nov 18, 2026
-  12:00 PM  FOLLOW-UP (link the long video)
+  12:00 PM  FOLLOW-UP (related = this long video)
     file:     shorts/launch-night-prep-ch05.mp4
     title:    How to pre-load GTA 6 on PS5
     caption:  How to pre-load GTA 6 on PS5. Full check on VICE Check: [link to 'Do This Before GTA6 Launch Night' once it is live on VICE Check]  #GTA6 #GTAVI #Shorts
-    related:  Do This Before GTA6 Launch Night (2026-11-16)
+    related:  Do This Before GTA6 Launch Night (long video posts 2026-11-16 6:00 PM PT)
