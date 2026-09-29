@@ -7,7 +7,7 @@ thumb_image: footage/GTAVI_Screenshots/Places/Leonida Keys/Leonida_Keys_01.jpg
 thumb_focus: 0.5,0.5
 thumb_text: THE ENTIRE|MAP|CHECKED
 thumb_sub: Confirmed vs fan maps, region by region
-status: DRAFT 2026-09-29. Not voiced. Owner approves wording first.
+status: VOICED and built 2026-09-29 (Liam). 9:29 video.
 notes: Every fact below is taken from scripts already fact-checked in this set (Florida Locations, Map Evolution, Status Check). New claims are marked [VERIFY]. Target 10:00 at Liam's pace, about 1,500 words. Driving-time figures for GTA 5 are approximate community estimates; say "about". No leaked map, no data-mined coordinates on screen. Fan maps are described, not shown, unless the owner has a licensed one.
 
 ## Chapter: Cold Open

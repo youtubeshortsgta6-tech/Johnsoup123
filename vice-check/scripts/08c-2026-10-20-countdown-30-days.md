@@ -7,7 +7,7 @@ thumb_image: footage/GTAVI_Screenshots/Places/Vice City/Vice_City_02.jpg
 thumb_focus: 0.6,0.5
 thumb_text: 30 DAYS|EVERYTHING|CONFIRMED
 thumb_sub: And the 5 things still missing
-status: DRAFT 2026-09-29. Not voiced. Owner approves wording first. Re-check every dated fact in the week of Oct 12 before voicing.
+status: VOICED and built 2026-09-29 (Liam). 8:11 video. Re-check the [VERIFY] items the week of Oct 12; re-voice one chapter if anything changed.
 notes: Built from the Status Check (Nov 2) facts but organized as a calendar so the two videos don't repeat each other. Items marked [VERIFY] need a check against the store pages or Rockstar Newswire before voicing. Target 10:00, about 1,500 words.
 
 ## Chapter: Cold Open
