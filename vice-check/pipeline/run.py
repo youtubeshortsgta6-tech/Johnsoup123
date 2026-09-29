@@ -19,13 +19,14 @@ def main():
     a = sys.argv[1:]
     if not a: sys.exit(__doc__)
     script = Path(a[0])
-    shotlist = a[a.index("--shotlist") + 1]
+    shotlist = a[a.index("--shotlist") + 1] if "--shotlist" in a else None   # default: vice-check/shotlists/<slug>.json, set below
     date = a[a.index("--date") + 1]
     step(HERE / "extract_vo.py", script)
     slug = None                                   # the script's `slug:` line
     for line in script.read_text().splitlines():
         if line.startswith("slug:"): slug = line.split(":", 1)[1].strip(); break
     if not slug: sys.exit("script has no `slug:` line")
+    if shotlist is None: shotlist = str(ROOT / "vice-check" / "shotlists" / f"{slug}.json")
     chapters = ROOT / "work" / slug / "chapters.json"
     voice_args = [HERE / "voice.py", chapters]
     if "--dry-voice" in a: voice_args.append("--dry-run")
